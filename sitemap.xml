@@ -1,0 +1,1837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>None./</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+    </url>
+    <url>
+        <loc>Noneabout/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneabout/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/about/"/>
+    </url>
+    <url>
+        <loc>Noneblog/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneblog/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/command-line/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/command-line/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/command-line/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/enterprise-deploy/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/enterprise-deploy/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/enterprise-deploy/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/file-management/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/file-management/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/file-management/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/filesystem/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/filesystem/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/filesystem/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/intro-install/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/intro-install/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/intro-install/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/network-services/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/network-services/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/network-services/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/open-source/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/open-source/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/open-source/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/package-mgmt/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/package-mgmt/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/package-mgmt/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/performance-opt/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/performance-opt/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/performance-opt/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/personal-blog/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/personal-blog/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/personal-blog/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/process-monitor/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/process-monitor/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/process-monitor/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/security-config/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/security-config/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/security-config/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/server-mgmt/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/server-mgmt/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/server-mgmt/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/shell-scripting/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/shell-scripting/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/shell-scripting/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/ubuntu-physical-install/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/ubuntu-physical-install/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/ubuntu-physical-install/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/user-permissions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/user-permissions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/user-permissions/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/vmware-basics/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/vmware-basics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/vmware-basics/"/>
+    </url>
+    <url>
+        <loc>Nonelinux/vmware-install-ubuntu/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/vmware-install-ubuntu/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/vmware-install-ubuntu/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/basics/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/basics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/basics/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/advanced/backup-restore/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/advanced/backup-restore/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/advanced/backup-restore/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/advanced/performance-tuning/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/advanced/performance-tuning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/advanced/performance-tuning/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/advanced/replication-clustering/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/advanced/replication-clustering/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/advanced/replication-clustering/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/advanced/transactions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/advanced/transactions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/advanced/transactions/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/dcl/audit-monitoring/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dcl/audit-monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dcl/audit-monitoring/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/dcl/roles-permissions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dcl/roles-permissions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dcl/roles-permissions/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/dcl/user-permissions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dcl/user-permissions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dcl/user-permissions/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/ddl/create-manage-db/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/ddl/create-manage-db/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/ddl/create-manage-db/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/ddl/index-management/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/ddl/index-management/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/ddl/index-management/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/ddl/table-structure/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/ddl/table-structure/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/ddl/table-structure/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/ddl/views-stored-procedures/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/ddl/views-stored-procedures/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/ddl/views-stored-procedures/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/dml/delete-data/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dml/delete-data/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dml/delete-data/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/dml/insert-data/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dml/insert-data/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dml/insert-data/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/dml/update-data/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dml/update-data/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dml/update-data/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/dql/aggregate-functions-pagination/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dql/aggregate-functions-pagination/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dql/aggregate-functions-pagination/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/dql/basic-queries/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dql/basic-queries/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dql/basic-queries/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/dql/conditional-queries/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dql/conditional-queries/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dql/conditional-queries/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/dql/join-queries/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dql/join-queries/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dql/join-queries/"/>
+    </url>
+    <url>
+        <loc>Nonemysql/dql/sorting-grouping/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dql/sorting-grouping/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dql/sorting-grouping/"/>
+    </url>
+    <url>
+        <loc>Nonepython/advanced/coroutines-async-programming/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/coroutines-async-programming/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/coroutines-async-programming/"/>
+    </url>
+    <url>
+        <loc>Nonepython/advanced/decorators-basics-applications/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/decorators-basics-applications/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/decorators-basics-applications/"/>
+    </url>
+    <url>
+        <loc>Nonepython/advanced/dictionary-set-comprehensions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/dictionary-set-comprehensions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/dictionary-set-comprehensions/"/>
+    </url>
+    <url>
+        <loc>Nonepython/advanced/generators-functions-expressions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/generators-functions-expressions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/generators-functions-expressions/"/>
+    </url>
+    <url>
+        <loc>Nonepython/advanced/iterators-iterables/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/iterators-iterables/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/iterators-iterables/"/>
+    </url>
+    <url>
+        <loc>Nonepython/advanced/list-comprehensions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/list-comprehensions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/list-comprehensions/"/>
+    </url>
+    <url>
+        <loc>Nonepython/advanced/metaclasses-custom-class-creation/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/metaclasses-custom-class-creation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/metaclasses-custom-class-creation/"/>
+    </url>
+    <url>
+        <loc>Nonepython/basics/install-python3/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/install-python3/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/install-python3/"/>
+    </url>
+    <url>
+        <loc>Nonepython/basics/variables-constants/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/variables-constants/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/variables-constants/"/>
+    </url>
+    <url>
+        <loc>Nonepython/basics/control-structures/conditional-statements/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/control-structures/conditional-statements/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/control-structures/conditional-statements/"/>
+    </url>
+    <url>
+        <loc>Nonepython/basics/control-structures/loop-structures/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/control-structures/loop-structures/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/control-structures/loop-structures/"/>
+    </url>
+    <url>
+        <loc>Nonepython/basics/data-types/dictionaries-sets/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/data-types/dictionaries-sets/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/data-types/dictionaries-sets/"/>
+    </url>
+    <url>
+        <loc>Nonepython/basics/data-types/lists-tuples/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/data-types/lists-tuples/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/data-types/lists-tuples/"/>
+    </url>
+    <url>
+        <loc>Nonepython/basics/data-types/numeric-types/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/data-types/numeric-types/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/data-types/numeric-types/"/>
+    </url>
+    <url>
+        <loc>Nonepython/basics/data-types/string-types/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/data-types/string-types/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/data-types/string-types/"/>
+    </url>
+    <url>
+        <loc>Nonepython/basics/functions-modules/define-call-functions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/functions-modules/define-call-functions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/functions-modules/define-call-functions/"/>
+    </url>
+    <url>
+        <loc>Nonepython/basics/functions-modules/import-use-modules/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/functions-modules/import-use-modules/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/functions-modules/import-use-modules/"/>
+    </url>
+    <url>
+        <loc>Nonepython/practical/data-processing-analysis/pandas/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/practical/data-processing-analysis/pandas/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/practical/data-processing-analysis/pandas/"/>
+    </url>
+    <url>
+        <loc>Nonepython/practical/web-development/flask-django-introduction/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/practical/web-development/flask-django-introduction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/practical/web-development/flask-django-introduction/"/>
+    </url>
+    <url>
+        <loc>Nonepython/practical/web-scraping/requests-beautifulsoup/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/practical/web-scraping/requests-beautifulsoup/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/practical/web-scraping/requests-beautifulsoup/"/>
+    </url>
+    <url>
+        <loc>Nonepython/python3-features/deprecated-features-modules/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/python3-features/deprecated-features-modules/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/python3-features/deprecated-features-modules/"/>
+    </url>
+    <url>
+        <loc>Nonepython/python3-features/python2-vs-python3-differences/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/python3-features/python2-vs-python3-differences/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/python3-features/python2-vs-python3-differences/"/>
+    </url>
+    <url>
+        <loc>Nonepython/python3-features/python3-syntax-features/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/python3-features/python3-syntax-features/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/python3-features/python3-syntax-features/"/>
+    </url>
+    <url>
+        <loc>Nonepython/python3-features/type-annotations-hints/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/python3-features/type-annotations-hints/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/python3-features/type-annotations-hints/"/>
+    </url>
+    <url>
+        <loc>Noneqa/ai-machine-learning/algorithm-principles-applications/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/ai-machine-learning/algorithm-principles-applications/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/ai-machine-learning/algorithm-principles-applications/"/>
+    </url>
+    <url>
+        <loc>Noneqa/ai-machine-learning/deep-learning-frameworks/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/ai-machine-learning/deep-learning-frameworks/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/ai-machine-learning/deep-learning-frameworks/"/>
+    </url>
+    <url>
+        <loc>Noneqa/ai-machine-learning/model-training-optimization/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/ai-machine-learning/model-training-optimization/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/ai-machine-learning/model-training-optimization/"/>
+    </url>
+    <url>
+        <loc>Noneqa/data-analysis/data-cleaning-processing/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/data-analysis/data-cleaning-processing/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/data-analysis/data-cleaning-processing/"/>
+    </url>
+    <url>
+        <loc>Noneqa/data-analysis/data-visualization-tips/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/data-analysis/data-visualization-tips/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/data-analysis/data-visualization-tips/"/>
+    </url>
+    <url>
+        <loc>Noneqa/data-analysis/statistical-analysis-modeling/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/data-analysis/statistical-analysis-modeling/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/data-analysis/statistical-analysis-modeling/"/>
+    </url>
+    <url>
+        <loc>Noneqa/programming-languages/java-challenges/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/programming-languages/java-challenges/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/programming-languages/java-challenges/"/>
+    </url>
+    <url>
+        <loc>Noneqa/programming-languages/javascript-answers/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/programming-languages/javascript-answers/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/programming-languages/javascript-answers/"/>
+    </url>
+    <url>
+        <loc>Noneqa/programming-languages/python-questions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/programming-languages/python-questions/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/programming-languages/python-questions/"/>
+    </url>
+    <url>
+        <loc>Noneqa/security-privacy/data-encryption/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/security-privacy/data-encryption/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/security-privacy/data-encryption/"/>
+    </url>
+    <url>
+        <loc>Noneqa/security-privacy/privacy-protection-strategies/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/security-privacy/privacy-protection-strategies/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/security-privacy/privacy-protection-strategies/"/>
+    </url>
+    <url>
+        <loc>Noneqa/security-privacy/system-security/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/security-privacy/system-security/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/security-privacy/system-security/"/>
+    </url>
+    <url>
+        <loc>Noneqa/software-development-tools/build-deployment-processes/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/software-development-tools/build-deployment-processes/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/software-development-tools/build-deployment-processes/"/>
+    </url>
+    <url>
+        <loc>Noneqa/software-development-tools/ide-tips/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/software-development-tools/ide-tips/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/software-development-tools/ide-tips/"/>
+    </url>
+    <url>
+        <loc>Noneqa/software-development-tools/version-control-practices/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/software-development-tools/version-control-practices/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/software-development-tools/version-control-practices/"/>
+    </url>
+    <url>
+        <loc>Noneqa/system-operations/linux-management/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/system-operations/linux-management/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/system-operations/linux-management/"/>
+    </url>
+    <url>
+        <loc>Noneqa/system-operations/network-troubleshooting/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/system-operations/network-troubleshooting/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/system-operations/network-troubleshooting/"/>
+    </url>
+    <url>
+        <loc>Noneqa/system-operations/windows-server-config/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/system-operations/windows-server-config/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/system-operations/windows-server-config/"/>
+    </url>
+    <url>
+        <loc>Noneqa/web-development/backend-setup/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/web-development/backend-setup/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/web-development/backend-setup/"/>
+    </url>
+    <url>
+        <loc>Noneqa/web-development/database-optimization/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/web-development/database-optimization/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/web-development/database-optimization/"/>
+    </url>
+    <url>
+        <loc>Noneqa/web-development/frontend-tips/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/web-development/frontend-tips/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/web-development/frontend-tips/"/>
+    </url>
+    <url>
+        <loc>Noneresources/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneresources/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/resources/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/api-testing/postman-soapui-tools/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/api-testing/postman-soapui-tools/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/api-testing/postman-soapui-tools/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/api-testing/rest-api-testing-basics/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/api-testing/rest-api-testing-basics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/api-testing/rest-api-testing-basics/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/api-testing/soap-api-testing-guide/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/api-testing/soap-api-testing-guide/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/api-testing/soap-api-testing-guide/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/api-testing/test-cases-practices/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/api-testing/test-cases-practices/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/api-testing/test-cases-practices/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/automation/appium-mobile-testing/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/automation/appium-mobile-testing/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/automation/appium-mobile-testing/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/automation/basics/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/automation/basics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/automation/basics/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/automation/continuous-integration-cicd/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/automation/continuous-integration-cicd/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/automation/continuous-integration-cicd/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/automation/script-writing-maintenance/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/automation/script-writing-maintenance/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/automation/script-writing-maintenance/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/automation/selenium-webdriver/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/automation/selenium-webdriver/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/automation/selenium-webdriver/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/basics/defect-management-reporting/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/basics/defect-management-reporting/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/basics/defect-management-reporting/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/basics/test-concepts-importance/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/basics/test-concepts-importance/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/basics/test-concepts-importance/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/basics/test-plans-strategies/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/basics/test-plans-strategies/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/basics/test-plans-strategies/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/basics/test-types-levels/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/basics/test-types-levels/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/basics/test-types-levels/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/performance-testing/basics/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/performance-testing/basics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/performance-testing/basics/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/performance-testing/load-stress-testing/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/performance-testing/load-stress-testing/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/performance-testing/load-stress-testing/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/performance-testing/response-time-analysis/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/performance-testing/response-time-analysis/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/performance-testing/response-time-analysis/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/performance-testing/tuning-bottleneck-identification/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/performance-testing/tuning-bottleneck-identification/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/performance-testing/tuning-bottleneck-identification/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/tdd-bdd/bdd/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/tdd-bdd/bdd/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/tdd-bdd/bdd/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/tdd-bdd/cucumber-specflow-tools/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/tdd-bdd/cucumber-specflow-tools/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/tdd-bdd/cucumber-specflow-tools/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/tdd-bdd/tdd/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/tdd-bdd/tdd/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/tdd-bdd/tdd/"/>
+    </url>
+    <url>
+        <loc>Nonetesting/tdd-bdd/writable-test-code/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/tdd-bdd/writable-test-code/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/tdd-bdd/writable-test-code/"/>
+    </url>
+    <url>
+        <loc>Nonetools/ci-cd/gitlab-ci-cd/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/ci-cd/gitlab-ci-cd/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/ci-cd/gitlab-ci-cd/"/>
+    </url>
+    <url>
+        <loc>Nonetools/ci-cd/jenkins/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/ci-cd/jenkins/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/ci-cd/jenkins/"/>
+    </url>
+    <url>
+        <loc>Nonetools/ci-cd/travis-ci/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/ci-cd/travis-ci/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/ci-cd/travis-ci/"/>
+    </url>
+    <url>
+        <loc>Nonetools/containers/docker/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/containers/docker/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/containers/docker/"/>
+    </url>
+    <url>
+        <loc>Nonetools/containers/kubernetes/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/containers/kubernetes/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/containers/kubernetes/"/>
+    </url>
+    <url>
+        <loc>Nonetools/database-management/mysql-workbench/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/database-management/mysql-workbench/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/database-management/mysql-workbench/"/>
+    </url>
+    <url>
+        <loc>Nonetools/database-management/navicat/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/database-management/navicat/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/database-management/navicat/"/>
+    </url>
+    <url>
+        <loc>Nonetools/development/intellij-idea/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/development/intellij-idea/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/development/intellij-idea/"/>
+    </url>
+    <url>
+        <loc>Nonetools/development/pycharm/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/development/pycharm/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/development/pycharm/"/>
+    </url>
+    <url>
+        <loc>Nonetools/development/vscode/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/development/vscode/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/development/vscode/"/>
+    </url>
+    <url>
+        <loc>Nonetools/network-communication/fiddler/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/network-communication/fiddler/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/network-communication/fiddler/"/>
+    </url>
+    <url>
+        <loc>Nonetools/network-communication/wireshark/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/network-communication/wireshark/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/network-communication/wireshark/"/>
+    </url>
+    <url>
+        <loc>Nonetools/other/evernote/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/other/evernote/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/other/evernote/"/>
+    </url>
+    <url>
+        <loc>Nonetools/other/notepad-plus-plus/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/other/notepad-plus-plus/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/other/notepad-plus-plus/"/>
+    </url>
+    <url>
+        <loc>Nonetools/other/sublime-text/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/other/sublime-text/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/other/sublime-text/"/>
+    </url>
+    <url>
+        <loc>Nonetools/testing/jmeter/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/testing/jmeter/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/testing/jmeter/"/>
+    </url>
+    <url>
+        <loc>Nonetools/testing/postman/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/testing/postman/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/testing/postman/"/>
+    </url>
+    <url>
+        <loc>Nonetools/testing/robot-framework/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/testing/robot-framework/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/testing/robot-framework/"/>
+    </url>
+    <url>
+        <loc>Nonetools/testing/selenium/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/testing/selenium/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/testing/selenium/"/>
+    </url>
+    <url>
+        <loc>Nonetools/version-control/git/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/version-control/git/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/version-control/git/"/>
+    </url>
+    <url>
+        <loc>Nonetools/version-control/svn/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/version-control/svn/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/version-control/svn/"/>
+    </url>
+    <url>
+        <loc>Nonetools/virtual-machines/vmware/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/virtual-machines/vmware/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/virtual-machines/vmware/"/>
+    </url>
+    <url>
+        <loc>Nonetags/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetags/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tags/"/>
+    </url>
+    <url>
+        <loc>Nonezh/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="None"/>
+    </url>
+    <url>
+        <loc>Nonezh/about/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneabout/"/>
+    </url>
+    <url>
+        <loc>Nonezh/blog/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneblog/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/command-line/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/command-line/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/command-line/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/enterprise-deploy/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/enterprise-deploy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/enterprise-deploy/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/file-management/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/file-management/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/file-management/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/filesystem/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/filesystem/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/filesystem/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/intro-install/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/intro-install/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/intro-install/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/network-services/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/network-services/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/network-services/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/open-source/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/open-source/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/open-source/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/package-mgmt/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/package-mgmt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/package-mgmt/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/performance-opt/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/performance-opt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/performance-opt/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/personal-blog/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/personal-blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/personal-blog/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/process-monitor/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/process-monitor/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/process-monitor/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/security-config/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/security-config/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/security-config/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/server-mgmt/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/server-mgmt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/server-mgmt/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/shell-scripting/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/shell-scripting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/shell-scripting/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/ubuntu-physical-install/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/ubuntu-physical-install/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/ubuntu-physical-install/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/user-permissions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/user-permissions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/user-permissions/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/vmware-basics/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/vmware-basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/vmware-basics/"/>
+    </url>
+    <url>
+        <loc>Nonezh/linux/vmware-install-ubuntu/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/linux/vmware-install-ubuntu/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonelinux/vmware-install-ubuntu/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/basics/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/basics/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/advanced/backup-restore/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/advanced/backup-restore/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/advanced/backup-restore/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/advanced/performance-tuning/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/advanced/performance-tuning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/advanced/performance-tuning/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/advanced/replication-clustering/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/advanced/replication-clustering/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/advanced/replication-clustering/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/advanced/transactions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/advanced/transactions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/advanced/transactions/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/dcl/audit-monitoring/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dcl/audit-monitoring/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dcl/audit-monitoring/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/dcl/roles-permissions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dcl/roles-permissions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dcl/roles-permissions/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/dcl/user-permissions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dcl/user-permissions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dcl/user-permissions/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/ddl/create-manage-db/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/ddl/create-manage-db/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/ddl/create-manage-db/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/ddl/index-management/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/ddl/index-management/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/ddl/index-management/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/ddl/table-structure/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/ddl/table-structure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/ddl/table-structure/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/ddl/views-stored-procedures/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/ddl/views-stored-procedures/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/ddl/views-stored-procedures/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/dml/delete-data/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dml/delete-data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dml/delete-data/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/dml/insert-data/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dml/insert-data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dml/insert-data/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/dml/update-data/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dml/update-data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dml/update-data/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/dql/aggregate-functions-pagination/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dql/aggregate-functions-pagination/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dql/aggregate-functions-pagination/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/dql/basic-queries/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dql/basic-queries/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dql/basic-queries/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/dql/conditional-queries/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dql/conditional-queries/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dql/conditional-queries/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/dql/join-queries/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dql/join-queries/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dql/join-queries/"/>
+    </url>
+    <url>
+        <loc>Nonezh/mysql/dql/sorting-grouping/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/mysql/dql/sorting-grouping/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonemysql/dql/sorting-grouping/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/advanced/coroutines-async-programming/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/coroutines-async-programming/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/coroutines-async-programming/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/advanced/decorators-basics-applications/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/decorators-basics-applications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/decorators-basics-applications/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/advanced/dictionary-set-comprehensions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/dictionary-set-comprehensions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/dictionary-set-comprehensions/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/advanced/generators-functions-expressions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/generators-functions-expressions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/generators-functions-expressions/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/advanced/iterators-iterables/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/iterators-iterables/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/iterators-iterables/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/advanced/list-comprehensions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/list-comprehensions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/list-comprehensions/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/advanced/metaclasses-custom-class-creation/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/advanced/metaclasses-custom-class-creation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/advanced/metaclasses-custom-class-creation/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/basics/install-python3/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/install-python3/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/install-python3/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/basics/variables-constants/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/variables-constants/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/variables-constants/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/basics/control-structures/conditional-statements/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/control-structures/conditional-statements/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/control-structures/conditional-statements/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/basics/control-structures/loop-structures/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/control-structures/loop-structures/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/control-structures/loop-structures/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/basics/data-types/dictionaries-sets/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/data-types/dictionaries-sets/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/data-types/dictionaries-sets/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/basics/data-types/lists-tuples/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/data-types/lists-tuples/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/data-types/lists-tuples/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/basics/data-types/numeric-types/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/data-types/numeric-types/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/data-types/numeric-types/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/basics/data-types/string-types/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/data-types/string-types/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/data-types/string-types/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/basics/functions-modules/define-call-functions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/functions-modules/define-call-functions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/functions-modules/define-call-functions/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/basics/functions-modules/import-use-modules/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/basics/functions-modules/import-use-modules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/basics/functions-modules/import-use-modules/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/practical/data-processing-analysis/pandas/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/practical/data-processing-analysis/pandas/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/practical/data-processing-analysis/pandas/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/practical/web-development/flask-django-introduction/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/practical/web-development/flask-django-introduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/practical/web-development/flask-django-introduction/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/practical/web-scraping/requests-beautifulsoup/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/practical/web-scraping/requests-beautifulsoup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/practical/web-scraping/requests-beautifulsoup/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/python3-features/deprecated-features-modules/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/python3-features/deprecated-features-modules/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/python3-features/deprecated-features-modules/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/python3-features/python2-vs-python3-differences/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/python3-features/python2-vs-python3-differences/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/python3-features/python2-vs-python3-differences/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/python3-features/python3-syntax-features/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/python3-features/python3-syntax-features/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/python3-features/python3-syntax-features/"/>
+    </url>
+    <url>
+        <loc>Nonezh/python/python3-features/type-annotations-hints/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/python/python3-features/type-annotations-hints/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonepython/python3-features/type-annotations-hints/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/ai-machine-learning/algorithm-principles-applications/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/ai-machine-learning/algorithm-principles-applications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/ai-machine-learning/algorithm-principles-applications/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/ai-machine-learning/deep-learning-frameworks/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/ai-machine-learning/deep-learning-frameworks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/ai-machine-learning/deep-learning-frameworks/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/ai-machine-learning/model-training-optimization/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/ai-machine-learning/model-training-optimization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/ai-machine-learning/model-training-optimization/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/data-analysis/data-cleaning-processing/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/data-analysis/data-cleaning-processing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/data-analysis/data-cleaning-processing/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/data-analysis/data-visualization-tips/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/data-analysis/data-visualization-tips/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/data-analysis/data-visualization-tips/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/data-analysis/statistical-analysis-modeling/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/data-analysis/statistical-analysis-modeling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/data-analysis/statistical-analysis-modeling/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/programming-languages/java-challenges/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/programming-languages/java-challenges/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/programming-languages/java-challenges/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/programming-languages/javascript-answers/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/programming-languages/javascript-answers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/programming-languages/javascript-answers/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/programming-languages/python-questions/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/programming-languages/python-questions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/programming-languages/python-questions/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/security-privacy/data-encryption/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/security-privacy/data-encryption/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/security-privacy/data-encryption/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/security-privacy/privacy-protection-strategies/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/security-privacy/privacy-protection-strategies/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/security-privacy/privacy-protection-strategies/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/security-privacy/system-security/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/security-privacy/system-security/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/security-privacy/system-security/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/software-development-tools/build-deployment-processes/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/software-development-tools/build-deployment-processes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/software-development-tools/build-deployment-processes/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/software-development-tools/ide-tips/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/software-development-tools/ide-tips/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/software-development-tools/ide-tips/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/software-development-tools/version-control-practices/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/software-development-tools/version-control-practices/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/software-development-tools/version-control-practices/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/system-operations/linux-management/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/system-operations/linux-management/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/system-operations/linux-management/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/system-operations/network-troubleshooting/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/system-operations/network-troubleshooting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/system-operations/network-troubleshooting/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/system-operations/windows-server-config/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/system-operations/windows-server-config/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/system-operations/windows-server-config/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/web-development/backend-setup/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/web-development/backend-setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/web-development/backend-setup/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/web-development/database-optimization/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/web-development/database-optimization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/web-development/database-optimization/"/>
+    </url>
+    <url>
+        <loc>Nonezh/qa/web-development/frontend-tips/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/qa/web-development/frontend-tips/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneqa/web-development/frontend-tips/"/>
+    </url>
+    <url>
+        <loc>Nonezh/resources/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/resources/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneresources/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/api-testing/postman-soapui-tools/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/api-testing/postman-soapui-tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/api-testing/postman-soapui-tools/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/api-testing/rest-api-testing-basics/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/api-testing/rest-api-testing-basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/api-testing/rest-api-testing-basics/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/api-testing/soap-api-testing-guide/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/api-testing/soap-api-testing-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/api-testing/soap-api-testing-guide/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/api-testing/test-cases-practices/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/api-testing/test-cases-practices/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/api-testing/test-cases-practices/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/automation/appium-mobile-testing/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/automation/appium-mobile-testing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/automation/appium-mobile-testing/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/automation/basics/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/automation/basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/automation/basics/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/automation/continuous-integration-cicd/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/automation/continuous-integration-cicd/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/automation/continuous-integration-cicd/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/automation/script-writing-maintenance/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/automation/script-writing-maintenance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/automation/script-writing-maintenance/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/automation/selenium-webdriver/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/automation/selenium-webdriver/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/automation/selenium-webdriver/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/basics/defect-management-reporting/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/basics/defect-management-reporting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/basics/defect-management-reporting/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/basics/test-concepts-importance/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/basics/test-concepts-importance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/basics/test-concepts-importance/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/basics/test-plans-strategies/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/basics/test-plans-strategies/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/basics/test-plans-strategies/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/basics/test-types-levels/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/basics/test-types-levels/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/basics/test-types-levels/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/performance-testing/basics/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/performance-testing/basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/performance-testing/basics/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/performance-testing/load-stress-testing/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/performance-testing/load-stress-testing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/performance-testing/load-stress-testing/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/performance-testing/response-time-analysis/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/performance-testing/response-time-analysis/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/performance-testing/response-time-analysis/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/performance-testing/tuning-bottleneck-identification/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/performance-testing/tuning-bottleneck-identification/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/performance-testing/tuning-bottleneck-identification/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/tdd-bdd/bdd/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/tdd-bdd/bdd/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/tdd-bdd/bdd/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/tdd-bdd/cucumber-specflow-tools/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/tdd-bdd/cucumber-specflow-tools/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/tdd-bdd/cucumber-specflow-tools/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/tdd-bdd/tdd/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/tdd-bdd/tdd/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/tdd-bdd/tdd/"/>
+    </url>
+    <url>
+        <loc>Nonezh/testing/tdd-bdd/writable-test-code/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/testing/tdd-bdd/writable-test-code/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetesting/tdd-bdd/writable-test-code/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/ci-cd/gitlab-ci-cd/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/ci-cd/gitlab-ci-cd/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/ci-cd/gitlab-ci-cd/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/ci-cd/jenkins/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/ci-cd/jenkins/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/ci-cd/jenkins/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/ci-cd/travis-ci/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/ci-cd/travis-ci/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/ci-cd/travis-ci/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/containers/docker/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/containers/docker/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/containers/docker/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/containers/kubernetes/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/containers/kubernetes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/containers/kubernetes/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/database-management/mysql-workbench/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/database-management/mysql-workbench/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/database-management/mysql-workbench/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/database-management/navicat/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/database-management/navicat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/database-management/navicat/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/development/intellij-idea/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/development/intellij-idea/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/development/intellij-idea/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/development/pycharm/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/development/pycharm/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/development/pycharm/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/development/vscode/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/development/vscode/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/development/vscode/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/network-communication/fiddler/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/network-communication/fiddler/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/network-communication/fiddler/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/network-communication/wireshark/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/network-communication/wireshark/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/network-communication/wireshark/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/other/evernote/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/other/evernote/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/other/evernote/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/other/notepad-plus-plus/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/other/notepad-plus-plus/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/other/notepad-plus-plus/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/other/sublime-text/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/other/sublime-text/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/other/sublime-text/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/testing/jmeter/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/testing/jmeter/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/testing/jmeter/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/testing/postman/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/testing/postman/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/testing/postman/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/testing/robot-framework/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/testing/robot-framework/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/testing/robot-framework/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/testing/selenium/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/testing/selenium/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/testing/selenium/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/version-control/git/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/version-control/git/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/version-control/git/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/version-control/svn/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/version-control/svn/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/version-control/svn/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tools/virtual-machines/vmware/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tools/virtual-machines/vmware/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetools/virtual-machines/vmware/"/>
+    </url>
+    <url>
+        <loc>Nonezh/tags/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/tags/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Nonetags/"/>
+    </url>
+</urlset>

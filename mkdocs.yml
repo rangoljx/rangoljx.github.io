@@ -1,8 +1,12 @@
 site_name: Rango Test
-site_url: https://github.com/rangoljx/
+# site_url: 
 site_author: Rango
+# 代码仓库信息
+repo_name: rangoljx/rango-web # 仓库名称
+repo_url: https://github.com/rangoljx/rango-web.git/ # 仓库地址
 theme:
   name: material
+  language: en # 默认语言
   keyboard: #配置搜索快捷键
     search: s, /
   # icon:
@@ -26,7 +30,19 @@ theme:
       toggle:
         icon: material/weather-sunny
   font:
+    text: Roboto
     code: Roboto Mono
+  icon: # 一些用到的icon
+    repo: simple/github
+    edit: material/pencil-box-multiple
+    view: material/eye
+    logo: logo
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    tag:
+      default-tag: fontawesome/solid/tag
+      hardware-tag: fontawesome/solid/microchip
+      software-tag: fontawesome/solid/laptop-code
   features:
   - navigation.instant #- header.autohide  #自动隐藏
   - navigation.tabs #顶级部分将呈现在上面视口标题下方的菜单层中，但在移动设备上保持原样
@@ -34,6 +50,7 @@ theme:
   - navigation.sections
   - navigation.top   # 返回顶部的按钮 在上滑时出现
   - navigation.indexs #使用目录索引
+  - navigation.footer  # 启用页脚
   # - toc.integrate      # 集成目录于左边
   # - navigation.expand #打开默认展开子菜单
 
@@ -44,6 +61,8 @@ theme:
 
   - content.code.annotate # 启用代码注释
   - content.code.copy    # 启用代码复制
+  - content.action.edit  # 页面编辑图标
+  - content.action.view  # 页面编辑图标
   # hide:
   # # - navigation # Hide navigation
   # - toc        # Hide table of contents
@@ -68,6 +87,28 @@ plugins:
         title_boost: 10        # 标题权重
         heading_boost: 5       # 标题权重
         content_boost: 1       # 内容权重
+
+  - i18n: # 多语言插件
+      docs_structure: suffix # 抄来的，不太懂
+      fallback_to_default: true # 抄来的，不太懂
+      reconfigure_material: true # 抄来的，不太懂
+      reconfigure_search: true # 抄来的，不太懂
+      languages: # 多语言配置 - 需要小心一点
+        - locale: en
+          default: true # 默认语言
+          name: English
+          build: true # 是否构建
+          # site_name: Infinity
+        - locale: zh
+          name: 简体中文
+          build: true
+          nav_translations: # 导航栏翻译，不可以有缩进
+            HOME: 首页
+            ABOUT: 关于
+            TAGS: 标签
+            python3 programming: python3编程
+
+
   # 标签系统pip install mkdocs-tags-plugin
   - tags:
       tags_file: tags.md #标签
@@ -103,6 +144,7 @@ plugins:
       height: auto                  # 图片高度
       zoomable: true               # 启用缩放
       draggable: true              # 启用拖动
+  - blog
 
 # 导航设置
 nav: 
@@ -150,7 +192,6 @@ nav:
         - Requests与Beautiful Soup实战: python/practical/web-scraping/requests-beautifulsoup.md
       - Web开发基础:
         - Flask/Django框架简介: python/practical/web-development/flask-django-introduction.md
-
 
   - MySQL数据库:
     - MySQL简介: mysql/basics.md
@@ -308,7 +349,7 @@ copyright: Copyright &copy; 2024 Rango
 
 extra:
   generator: false  #删除页脚显示“使用 MkDocs 材料制造”
-  # 联系方式
+  # 社交链接
   social:
     - icon: material/github
       link: https://github.com/username
@@ -383,7 +424,7 @@ markdown_extensions:
   - meta # 支持在 Markdown 文件头部添加元数据：
   - toc:
       permalink: true # 固定标题位置为当前位置
-      # toc_depth: 3          # 目录深度
+      toc_depth: 4          # 目录深度
       separator: "_"        # 标题锚点分隔符
       title: "目录"         # 目录标题
       slugify: !!python/object/apply:pymdownx.slugs.slugify
@@ -393,9 +434,10 @@ markdown_extensions:
   - pymdownx.inlinehilite # 行内代码高亮
   - pymdownx.snippets     # 代码片段
   - pymdownx.magiclink    # 自动链接
-  - pymdownx.mark        # ==标记==
-  - pymdownx.critic      # 编辑标记
+  - pymdownx.critic:      # 编辑标记,突出显示文档中添加、删除或更新的部分
+      mode: view    #查看更改
   - pymdownx.tilde      # 删除线
+  - pymdownx.mark        # ==标记==
   - pymdownx.caret      # 上标
   - pymdownx.keys       # 键盘按键
   - md_in_html

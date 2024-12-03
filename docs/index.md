@@ -2,10 +2,13 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-
+!!! quote
+    dsadfsdfdf.
+    
 ### 参考连接
-  - [mkdocs-statistics-plugin插件](https://github.com/TonyCrane/mkdocs-statistics-plugin?tab=readme-ov-file){target="_blank"}
-  - [mkdocs—material-超全配置](https://wncfht.github.io/notes/Technology/mkdocs%20material/ "mkdocs material 超全配置"){target="_blank"}
+- [mkdocs-statistics-plugin插件](https://github.com/TonyCrane/mkdocs-statistics-plugin?tab=readme-ov-file){target="_blank"}
+- [mkdocs—material-超全配置](https://wncfht.github.io/notes/Technology/mkdocs%20material/ "mkdocs material 超全配置"){target="_blank"}
+- [GitHub Pages部署mkdocs](https://www.cnblogs.com/E-Dreamer-Blogs/p/13323385.html "GitHub Pages部署mkdocs"){target="_blank"}
 
 ------------------------------------------------------------
 

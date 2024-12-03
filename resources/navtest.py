@@ -1,8 +1,8 @@
 import os
 
 # 指定文件列表的路径和输出目录
-file_list_path = r'D:\VSCODE\rango-web\nav.txt'  # 替换为您的文件列表实际路径
-output_dir = 'D:\\VSCODE\\rango-web\\docs'  # 注意使用双反斜杠或原始字符串
+file_list_path = r'xxxx\nav.txt'  # 将mkdocs.yaml中nav另存为txt
+output_dir = 'Your_Project_path\\docs'  # 注意使用双反斜杠或原始字符串
 
 # 读取文件列表并获取路径列表
 def get_md_file_paths_from_list(file_list_path):

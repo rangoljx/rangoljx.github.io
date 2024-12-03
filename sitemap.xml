@@ -610,6 +610,13 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/resources/"/>
     </url>
     <url>
+        <loc>https://rangoljx.github.io/resources/navtest/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/resources/navtest/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/resources/navtest/"/>
+    </url>
+    <url>
         <loc>https://rangoljx.github.io/testing/api-testing/postman-soapui-tools/</loc>
         <lastmod>2024-12-03</lastmod>
         <changefreq>daily</changefreq>
@@ -1525,6 +1532,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/resources/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/resources/"/>
+    </url>
+    <url>
+        <loc>https://rangoljx.github.io/zh/resources/navtest/</loc>
+        <lastmod>2024-12-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/resources/navtest/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/resources/navtest/"/>
     </url>
     <url>
         <loc>https://rangoljx.github.io/zh/testing/api-testing/postman-soapui-tools/</loc>

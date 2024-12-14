@@ -15,6 +15,13 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/about/"/>
     </url>
     <url>
+        <loc>https://rangoljx.github.io/message-board/</loc>
+        <lastmod>2024-12-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/message-board/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/message-board/"/>
+    </url>
+    <url>
         <loc>https://rangoljx.github.io/tag_cloud/</loc>
         <lastmod>2024-12-14</lastmod>
         <changefreq>daily</changefreq>
@@ -190,102 +197,11 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/tdd-bdd/writable-test-code/"/>
     </url>
     <url>
-        <loc>https://rangoljx.github.io/tools/ci-cd/gitlab-ci-cd/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/ci-cd/gitlab-ci-cd/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/ci-cd/gitlab-ci-cd/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/ci-cd/jenkins/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/ci-cd/jenkins/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/ci-cd/jenkins/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/ci-cd/travis-ci/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/ci-cd/travis-ci/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/ci-cd/travis-ci/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/containers/docker/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/containers/docker/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/containers/docker/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/containers/kubernetes/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/containers/kubernetes/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/containers/kubernetes/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/database-management/mysql-workbench/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/database-management/mysql-workbench/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/database-management/mysql-workbench/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/database-management/navicat/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/database-management/navicat/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/database-management/navicat/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/development/intellij-idea/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/development/intellij-idea/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/development/intellij-idea/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/development/pycharm/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/development/pycharm/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/development/pycharm/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/development/vscode/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/development/vscode/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/development/vscode/"/>
-    </url>
-    <url>
         <loc>https://rangoljx.github.io/tools/jenkins/jenkin_allure/</loc>
         <lastmod>2024-12-14</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/jenkins/jenkin_allure/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/jenkins/jenkin_allure/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/network-communication/fiddler/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/network-communication/fiddler/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/network-communication/fiddler/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/network-communication/wireshark/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/network-communication/wireshark/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/network-communication/wireshark/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/other/evernote/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/other/evernote/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/other/evernote/"/>
     </url>
     <url>
         <loc>https://rangoljx.github.io/tools/other/github-pages/</loc>
@@ -295,18 +211,11 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/other/github-pages/"/>
     </url>
     <url>
-        <loc>https://rangoljx.github.io/tools/other/notepad-plus-plus/</loc>
+        <loc>https://rangoljx.github.io/tools/other/mkdocs_md/</loc>
         <lastmod>2024-12-14</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/other/notepad-plus-plus/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/other/notepad-plus-plus/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/other/sublime-text/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/other/sublime-text/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/other/sublime-text/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/other/mkdocs_md/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/other/mkdocs_md/"/>
     </url>
     <url>
         <loc>https://rangoljx.github.io/tools/resources/navtest/</loc>
@@ -314,55 +223,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/resources/navtest/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/resources/navtest/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/testing/jmeter/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/testing/jmeter/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/testing/jmeter/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/testing/postman/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/testing/postman/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/testing/postman/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/testing/robot-framework/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/testing/robot-framework/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/testing/robot-framework/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/testing/selenium/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/testing/selenium/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/testing/selenium/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/version-control/git/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/version-control/git/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/version-control/git/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/version-control/svn/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/version-control/svn/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/version-control/svn/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tools/virtual-machines/vmware/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/virtual-machines/vmware/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/virtual-machines/vmware/"/>
     </url>
     <url>
         <loc>https://rangoljx.github.io/zh/</loc>
@@ -377,6 +237,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/about/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/about/"/>
+    </url>
+    <url>
+        <loc>https://rangoljx.github.io/zh/message-board/</loc>
+        <lastmod>2024-12-14</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/message-board/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/message-board/"/>
     </url>
     <url>
         <loc>https://rangoljx.github.io/zh/tag_cloud/</loc>
@@ -554,102 +421,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/tdd-bdd/writable-test-code/"/>
     </url>
     <url>
-        <loc>https://rangoljx.github.io/zh/tools/ci-cd/gitlab-ci-cd/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/ci-cd/gitlab-ci-cd/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/ci-cd/gitlab-ci-cd/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/ci-cd/jenkins/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/ci-cd/jenkins/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/ci-cd/jenkins/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/ci-cd/travis-ci/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/ci-cd/travis-ci/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/ci-cd/travis-ci/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/containers/docker/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/containers/docker/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/containers/docker/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/containers/kubernetes/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/containers/kubernetes/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/containers/kubernetes/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/database-management/mysql-workbench/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/database-management/mysql-workbench/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/database-management/mysql-workbench/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/database-management/navicat/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/database-management/navicat/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/database-management/navicat/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/development/intellij-idea/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/development/intellij-idea/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/development/intellij-idea/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/development/pycharm/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/development/pycharm/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/development/pycharm/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/development/vscode/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/development/vscode/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/development/vscode/"/>
-    </url>
-    <url>
         <loc>https://rangoljx.github.io/zh/tools/jenkins/jenkin_allure/</loc>
         <lastmod>2024-12-14</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/jenkins/jenkin_allure/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/jenkins/jenkin_allure/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/network-communication/fiddler/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/network-communication/fiddler/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/network-communication/fiddler/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/network-communication/wireshark/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/network-communication/wireshark/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/network-communication/wireshark/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/other/evernote/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/other/evernote/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/other/evernote/"/>
     </url>
     <url>
         <loc>https://rangoljx.github.io/zh/tools/other/github-pages/</loc>
@@ -659,18 +435,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/other/github-pages/"/>
     </url>
     <url>
-        <loc>https://rangoljx.github.io/zh/tools/other/notepad-plus-plus/</loc>
+        <loc>https://rangoljx.github.io/zh/tools/other/mkdocs_md/</loc>
         <lastmod>2024-12-14</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/other/notepad-plus-plus/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/other/notepad-plus-plus/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/other/sublime-text/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/other/sublime-text/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/other/sublime-text/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/other/mkdocs_md/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/other/mkdocs_md/"/>
     </url>
     <url>
         <loc>https://rangoljx.github.io/zh/tools/resources/navtest/</loc>
@@ -678,54 +447,5 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/resources/navtest/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/resources/navtest/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/testing/jmeter/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/testing/jmeter/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/testing/jmeter/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/testing/postman/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/testing/postman/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/testing/postman/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/testing/robot-framework/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/testing/robot-framework/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/testing/robot-framework/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/testing/selenium/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/testing/selenium/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/testing/selenium/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/version-control/git/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/version-control/git/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/version-control/git/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/version-control/svn/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/version-control/svn/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/version-control/svn/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tools/virtual-machines/vmware/</loc>
-        <lastmod>2024-12-14</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/virtual-machines/vmware/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/virtual-machines/vmware/"/>
     </url>
 </urlset>

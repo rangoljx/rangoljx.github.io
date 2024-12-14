@@ -1,6 +1,6 @@
 mkdocs
 mkdocs-material
-mkdocs-i18n
+mkdocs-static-i18n
 # mkdocs-tags-plugin
 # mkdocs-statistics-plugin
 mkdocs-glightbox

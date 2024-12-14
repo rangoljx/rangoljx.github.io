@@ -16,6 +16,7 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r requirements.txt  # 安装 相关插件
+        pip cache purge
     - name: Build the MkDocs site
       run: mkdocs build  # 构建 MkDocs 网站
     - name: Deploy to GitHub Pages

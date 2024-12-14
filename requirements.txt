@@ -1,7 +1,7 @@
 mkdocs
 mkdocs-material
 mkdocs-i18n
-mkdocs-tags-plugin
+# mkdocs-tags-plugin
 mkdocs-statistics
 mkdocs-glightbox
 mkdocs-rss-plugin

@@ -231,6 +231,7 @@ nav:
         - （踩坑）Jenkins配置Allure报告-Pytest: tools/jenkins/jenkin_allure.md
       - GitHub Pages: 
         - 关于使用GitHub部署Mkdocs不更新的解决方法: tools/other/github-pages.md
+        - 使用GitHub-Actions自动部署Mkdocs的测试: tools/other/github-actions.md
     - 脚本工具: 
       - 根据nav快速生成文件: tools/resources/navtest.md
     - 其他:

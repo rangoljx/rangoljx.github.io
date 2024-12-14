@@ -1,0 +1,10 @@
+mkdocs
+mkdocs-material
+mkdocs-search
+mkdocs-i18n
+mkdocs-tags-plugin
+mkdocs-statistics
+mkdocs-glightbox
+mkdocs-rss-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-git-authors

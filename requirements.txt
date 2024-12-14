@@ -1,6 +1,5 @@
 mkdocs
 mkdocs-material
-mkdocs-search
 mkdocs-i18n
 mkdocs-tags-plugin
 mkdocs-statistics

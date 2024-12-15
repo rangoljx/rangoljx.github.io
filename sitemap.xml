@@ -36,13 +36,6 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tag_list/"/>
     </url>
     <url>
-        <loc>https://rangoljx.github.io/tags/</loc>
-        <lastmod>2024-12-15</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tags/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tags/"/>
-    </url>
-    <url>
         <loc>https://rangoljx.github.io/blog/</loc>
         <lastmod>2024-12-15</lastmod>
         <changefreq>daily</changefreq>
@@ -232,6 +225,13 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/resources/navtest/"/>
     </url>
     <url>
+        <loc>https://rangoljx.github.io/tags/</loc>
+        <lastmod>2024-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tags/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tags/"/>
+    </url>
+    <url>
         <loc>https://rangoljx.github.io/zh/</loc>
         <lastmod>2024-12-15</lastmod>
         <changefreq>daily</changefreq>
@@ -265,13 +265,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tag_list/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tag_list/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tags/</loc>
-        <lastmod>2024-12-15</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tags/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tags/"/>
     </url>
     <url>
         <loc>https://rangoljx.github.io/zh/blog/</loc>
@@ -461,5 +454,12 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tools/resources/navtest/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tools/resources/navtest/"/>
+    </url>
+    <url>
+        <loc>https://rangoljx.github.io/zh/tags/</loc>
+        <lastmod>2024-12-15</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tags/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tags/"/>
     </url>
 </urlset>

@@ -1,11 +1,13 @@
-
+---
+hide:
+    - footer
+    - navigation
+    - toc
+---
 <!-- # <font color=#"789510"> **Welcome to Rango's note!** </font> -->
 # <font color="back"> **And you, my friend, you are the real hero!** </font>
 ---
 <center> <font color="black" size=56> <p style="background-color: red;"> 每一颗想赢的心，都有好运。</p>  </font> </center> 
-
-
-----------------
 
 !!! tip "**参考连接:**"
     - [mkdocs-statistics-plugin插件](https://github.com/TonyCrane/mkdocs-statistics-plugin?tab=readme-ov-file){target="_blank"}<br>

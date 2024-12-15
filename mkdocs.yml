@@ -1,4 +1,4 @@
-site_name: Rango Test
+site_name: Rango's Notes
 site_url: https://rangoljx.github.io/
 site_author: Rango
 # 代码仓库信息
@@ -14,7 +14,7 @@ theme:
   # icon:
   #   logo: material/book-open-page-variant  # 网站 Logo
   #   repo: fontawesome/brands/github        # 仓库图标
-  # favicon: assets/favicon.png              # 网站图标
+  favicon: images/mkdocs_favicon.png              # 网站图标
   palette:
     # 可用的主题色：
     # red, pink, purple, deep purple, indigo, blue, light blue, 
@@ -39,11 +39,11 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  icon: # 一些用到的icon
+  icon: # 一些用到的icon   material/washing-machine-alert
     repo: simple/github
     edit: material/pencil-box-multiple
     view: material/eye
-    logo: logo
+    logo: simple/testcafe
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
     tag:
@@ -66,14 +66,17 @@ theme:
       quote: octicons/quote-16
   features:
   - navigation.instant #- header.autohide  #自动隐藏
+  - navigation.instant.progress #进度指示器
+  - navigation.instant.preview #全局自动预览
   - navigation.tabs #顶级部分将呈现在上面视口标题下方的菜单层中，但在移动设备上保持原样
-  - navigation.tabs.sticky #启用粘性选项卡后，导航选项卡将锁定在标题下方，并在向下滚动时始终保持可见
+  # - navigation.tabs.sticky #启用粘性选项卡后，导航选项卡将锁定在标题下方，并在向下滚动时始终保持可见
   - navigation.sections
   - navigation.top   # 返回顶部的按钮 在上滑时出现
   - navigation.indexs #使用目录索引
   - navigation.footer  # 启用页脚
+  - navigation.tracking #锚点跟踪,地址栏中的 URL 会自动更新为活动锚点，如目录中突出显示的那样。
   # - toc.integrate      # 集成目录于左边
-  # - navigation.expand #打开默认展开子菜单
+  - navigation.expand #打开默认展开子菜单
 
   # 搜索主题配置
   - search.suggest # 启用搜索建议
@@ -90,6 +93,7 @@ theme:
   # hide:
   # # - navigation # Hide navigation
   # - toc        # Hide table of contents
+  - toc.follow    #启用目录的锚点关注后，侧边栏会自动滚动，以便活动锚点始终可见
 
 plugins:
   - search: #默认插件
@@ -171,21 +175,12 @@ plugins:
       draggable: true              # 启用拖动
 
   # 博客设置(rss插件：pip install mkdocs-rss-plugin)
+  - blog
   # - blog:
   #     blog_dir: blog
   #     blog_toc: true  #利用目录在视图中显示文章标题
   #     post_date_format: full
-  # #     enabled: false
-  - rss:
-      # enabled: !ENV [CI, false]
-      # enabled: !ENV [MKDOCS_ENABLE_RSS_PLUGIN, True]
-      match_path: blog/posts/*.* 
-      # match_path: blog/
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags 
+  #     enabled: false
   # 添加上次更新和创建文档的日期的支持(pip install mkdocs-git-revision-date-localized-plugin)
   - git-revision-date-localized:
       enable_creation_date: true
@@ -269,7 +264,7 @@ extra:
   # 社交链接
   social:
     - icon: material/github
-      link: https://github.com/rangoljx
+      link: https://github.com/rangoljx/rangoljx.github.io/discussions
       name: GitHub
     - icon: material/twitter
       link: https://twitter.com/username
@@ -280,9 +275,8 @@ extra:
     - icon: fontawesome/brands/bilibili
       link: https://www.bilibili.com/
       name: Bilibili
-    - icon: fontawesome/solid/paper-plane
+    - icon: material/microsoft-outlook
       link: mailto:<ljxrango@outlook.com> #联系方式
-
       name: Outlook邮箱
   # 分享功能配置（未实现）
   social_share:
@@ -315,31 +309,31 @@ extra:
     # provider: busuanzi
     # property: true
 
-    provider: google
-    property: G-XXXXXXXXXX # Google Analytics ID
-    # 事件追踪
-    events: true
-    # 用户行为追踪
-    behavior: true
-    feedback:
-      title: 此页面有帮助吗？
-      ratings:
-        - icon: material/thumb-up-outline
-          name: This page was helpful
-          data: 1
-          note: >-
-            谢谢你的反馈！
-        - icon: material/thumb-down-outline
-          name: This page could be improved
-          data: 0
-          note: >- 
-            Thanks for your feedback! Help us improve this page by
-            using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
+    # provider: google
+    # property: G-XXXXXXXXXX # Google Analytics ID
+    # # 事件追踪
+    # events: true
+    # # 用户行为追踪
+    # behavior: true
+    # feedback:
+    #   title: 此: material/thumb-up-outline
+    #       name: This page was helpful
+    #       data: 1
+    #       note: >-
+    #         谢谢你的反馈！
+    #     - icon: material/thumb-down-outline
+    #       name: This page could be improved
+    #       data: 0
+    #       note: >- 
+    #         Thanks for your feedback! Help us improve this page by
+    #         using页面有帮助吗？
+    #   ratings:
+    #     - icon our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
   
-  consent:
-    title: Cookie consent
-    description: >- 
-      我们也使用cookies来识别您的重复访问和偏好来衡量我们文档的有效性以及用户是否找到他们要找的东西。
+  # consent:
+  #   title: Cookie consent
+  #   description: >- 
+  #     我们也使用cookies来识别您的重复访问和偏好来衡量我们文档的有效性以及用户是否找到他们要找的东西。
 
 # 对markdown语法的扩展
 markdown_extensions:
@@ -414,6 +408,7 @@ extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
   # - stylesheets/tasklist.css
   # - stylesheets/tabs.css
+  - stylesheets/extra.css
 
 
 

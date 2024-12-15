@@ -6,17 +6,18 @@
 
 
 ----------------
-!!! info
-    For full documentation visit [mkdocs.org](https://www.mkdocs.org).<br>
-    For full documentation visit [mkdocs-material.org](https://squidfunk.github.io/mkdocs-material/).
 
-!!! tip inline "**参考连接:**"
+!!! tip "**参考连接:**"
     - [mkdocs-statistics-plugin插件](https://github.com/TonyCrane/mkdocs-statistics-plugin?tab=readme-ov-file){target="_blank"}<br>
     - [mkdocs—material-超全配置](https://wncfht.github.io/notes/Tools/Blog/Mkdocs_Material/ "mkdocs material 超全配置"){target="_blank"}<br>
-    - [GitHub Pages部署mkdocs](https://www.cnblogs.com/E-Dreamer-Blogs/p/13323385.html "GitHub Pages部署mkdocs"){target="_blank"}
+    - [GitHub Pages部署mkdocs](https://www.cnblogs.com/E-Dreamer-Blogs/p/13323385.html "GitHub Pages部署mkdocs"){target="_blank"}<br>
+    **官方文档:** <br>
+    For full documentation visit [mkdocs.org](https://www.mkdocs.org).<br>
+    For full documentation visit [mkdocs-material.org](https://squidfunk.github.io/mkdocs-material/)
+
 
 !!! note "更新"
-    - [更新](./about.md "更新说明")
+    - [更新说明](./about.md "更新说明")
     - 1
     - 2
     - 3

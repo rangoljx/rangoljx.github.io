@@ -20,9 +20,14 @@ theme:
     # red, pink, purple, deep purple, indigo, blue, light blue, 
     # cyan, teal, green, light green, lime, yellow, amber, 
     # orange, deep orange, brown, grey, blue grey
+    # # Palette toggle for automatic mode
+    # - media: "(prefers-color-scheme)"
+    #   toggle:
+    #     icon: material/brightness-auto
+    #     name: Switch to light mode
     - scheme: default # 日间模式
-      primary: blue grey # # 主色调
-      accent: light green # 链接等可交互元件的高亮色# 强调色
+      primary: white # # 主色调
+      accent: red # 链接等可交互元件的高亮色# 强调色
       toggle:
         icon: material/weather-night # 图标
         name: 切换至夜间模式 # 鼠标悬浮提示
@@ -77,8 +82,11 @@ theme:
 
   - content.code.annotate # 启用代码注释
   - content.code.copy    # 启用代码复制
+  - content.code.select    # 启用代码选择
   - content.action.edit  # 页面编辑图标
   - content.action.view  # 页面编辑图标
+  - content.tabs.link   #链接内容选项卡
+  - content.tooltips    #改进的工具提示
   # hide:
   # # - navigation # Hide navigation
   # - toc        # Hide table of contents
@@ -245,7 +253,11 @@ copyright: Copyright &copy; 2024 Rango
 
 extra:
   # generator: false  #删除页脚显示“使用 MkDocs 材料制造”
-
+  status:
+    new: new
+    Recently: Recently
+    added: added
+    deprecated: deprecated
   cdn:
     # 使用国内 CDN
     enable: true
@@ -351,7 +363,9 @@ markdown_extensions:
   - pymdownx.caret      # 上标
   - pymdownx.keys       # 键盘按键
   - md_in_html
+  # 此配置允许使用简单的语法向所有内联和块级元素添加属性，将任何链接转换为按钮
   - attr_list
+  - pymdownx.blocks.caption
   - pymdownx.arithmatex:  # latex支持 数学公式
       generic: true
       # numbering: true #启用公式编号
@@ -365,13 +379,17 @@ markdown_extensions:
   # 告警信息语法
   - admonition
   - pymdownx.details
-  - pymdownx.superfences
-
+  - pymdownx.superfences:
+        custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - def_list
   - pymdownx.tasklist: #任务列表支持
       custom_checkbox: true    # 自定义复选框样式
       clickable_checkbox: true # 可点击
-  - pymdownx.tabbed    # 标签页样式
-      # alternate_style: true
+  - pymdownx.tabbed:    # 标签页样式
+      alternate_style: true
 
 
 extra_javascript:
@@ -386,8 +404,9 @@ extra_javascript:
   # Mermaid 图表
   - https://unpkg.com/mermaid@9/dist/mermaid.min.js
   - https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
-  # 修改页面背景，未生效
+  # 修改页面背景特效
   - javascripts/extra.js
+  - javascripts/feedback.js
 
 
 

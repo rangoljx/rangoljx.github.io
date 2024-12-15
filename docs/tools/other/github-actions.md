@@ -3,6 +3,8 @@ comments: true  #默认不开启评论
 tags:
     - GitHub Aactions
     - Mkdocs
+icon: simple/githubactions
+status: new
 ---
 
 # 测试GitHub Aactions自动部署

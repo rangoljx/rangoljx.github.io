@@ -4,6 +4,7 @@ tags:
     - Git
     - GitHub pages
     - Mkdocs
+icon: simple/githubpages
 categories:
     - test 
     - blog

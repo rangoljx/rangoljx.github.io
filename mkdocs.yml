@@ -141,16 +141,13 @@ plugins:
   # 标签系统pip install mkdocs-tags-plugin
   - tags:
       tags_file: tags.md #标签
-      tags_allowed:  # 允许的标签列表
+      # tags_allowed:  # 允许的标签列表
       #   - Python
       #   - JavaScript
       #   - CSS
       #   - HTML
       #   - Linux
-      tags_extra_files:
-        cloud: tag_cloud.md    # 标签云页面
-        list: tag_list.md      # 标签列表页面
-
+      
   # 统计分析
   - statistics:
       page_statistics: True #是否在单页中显示统计信息

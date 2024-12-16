@@ -85,7 +85,7 @@ theme:
 
   - content.code.annotate # 启用代码注释
   - content.code.copy    # 启用代码复制
-  - content.code.select    # 启用代码选择
+  # - content.code.select    # 启用代码选择,仅限赞助商
   - content.action.edit  # 页面编辑图标
   - content.action.view  # 页面编辑图标
   - content.tabs.link   #链接内容选项卡
@@ -147,7 +147,7 @@ plugins:
       #   - CSS
       #   - HTML
       #   - Linux
-      
+
   # 统计分析
   - statistics:
       page_statistics: True #是否在单页中显示统计信息
@@ -194,18 +194,15 @@ plugins:
 # 导航设置
 nav: 
   - HOME: index.md
-  - Blog: 
-    - blog/index.md
+  # - Blog: 
+  #   - blog/index.md
 
   - Material for MkDocs:
     - Mkdocs搭建总结: mkdocsbuild/build_mkdocs.md
 
   - Software testing:
-    - 测试基础:
-      - 测试概念与重要性: testing/basics/test-concepts-importance.md
-      - 测试类型与级别: testing/basics/test-types-levels.md
-      - 测试计划与策略: testing/basics/test-plans-strategies.md
-      - 缺陷管理与报告: testing/basics/defect-management-reporting.md
+    - 测试基础理论: testing/basic-theory-of-testing.md
+    - 测试面试题: testing/interview-question.md
     - 接口测试:
       - REST API测试基础: testing/api-testing/rest-api-testing-basics.md
       - SOAP API测试指南: testing/api-testing/soap-api-testing-guide.md
@@ -370,6 +367,9 @@ markdown_extensions:
   - pymdownx.emoji: #添加表情符号支持
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options: 
+        custom_icons: 
+          - docs/overrides/.icons
   # 告警信息语法
   - admonition
   - pymdownx.details

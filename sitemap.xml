@@ -36,6 +36,20 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/mkdocsbuild/build_mkdocs/"/>
     </url>
     <url>
+        <loc>https://rangoljx.github.io/testing/basic-theory-of-testing/</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/basic-theory-of-testing/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/basic-theory-of-testing/"/>
+    </url>
+    <url>
+        <loc>https://rangoljx.github.io/testing/interview-question/</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/interview-question/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/interview-question/"/>
+    </url>
+    <url>
         <loc>https://rangoljx.github.io/testing/api-testing/postman-soapui-tools/</loc>
         <lastmod>2024-12-16</lastmod>
         <changefreq>daily</changefreq>
@@ -97,34 +111,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/automation/selenium-webdriver/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/automation/selenium-webdriver/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/testing/basics/defect-management-reporting/</loc>
-        <lastmod>2024-12-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/basics/defect-management-reporting/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/basics/defect-management-reporting/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/testing/basics/test-concepts-importance/</loc>
-        <lastmod>2024-12-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/basics/test-concepts-importance/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/basics/test-concepts-importance/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/testing/basics/test-plans-strategies/</loc>
-        <lastmod>2024-12-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/basics/test-plans-strategies/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/basics/test-plans-strategies/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/testing/basics/test-types-levels/</loc>
-        <lastmod>2024-12-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/basics/test-types-levels/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/basics/test-types-levels/"/>
     </url>
     <url>
         <loc>https://rangoljx.github.io/testing/performance-testing/basics/</loc>
@@ -260,6 +246,20 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/mkdocsbuild/build_mkdocs/"/>
     </url>
     <url>
+        <loc>https://rangoljx.github.io/zh/testing/basic-theory-of-testing/</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/basic-theory-of-testing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/basic-theory-of-testing/"/>
+    </url>
+    <url>
+        <loc>https://rangoljx.github.io/zh/testing/interview-question/</loc>
+        <lastmod>2024-12-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/interview-question/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/interview-question/"/>
+    </url>
+    <url>
         <loc>https://rangoljx.github.io/zh/testing/api-testing/postman-soapui-tools/</loc>
         <lastmod>2024-12-16</lastmod>
         <changefreq>daily</changefreq>
@@ -321,34 +321,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/automation/selenium-webdriver/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/automation/selenium-webdriver/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/testing/basics/defect-management-reporting/</loc>
-        <lastmod>2024-12-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/basics/defect-management-reporting/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/basics/defect-management-reporting/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/testing/basics/test-concepts-importance/</loc>
-        <lastmod>2024-12-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/basics/test-concepts-importance/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/basics/test-concepts-importance/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/testing/basics/test-plans-strategies/</loc>
-        <lastmod>2024-12-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/basics/test-plans-strategies/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/basics/test-plans-strategies/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/testing/basics/test-types-levels/</loc>
-        <lastmod>2024-12-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/testing/basics/test-types-levels/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/testing/basics/test-types-levels/"/>
     </url>
     <url>
         <loc>https://rangoljx.github.io/zh/testing/performance-testing/basics/</loc>

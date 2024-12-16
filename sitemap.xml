@@ -22,20 +22,6 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/message-board/"/>
     </url>
     <url>
-        <loc>https://rangoljx.github.io/tag_cloud/</loc>
-        <lastmod>2024-12-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tag_cloud/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tag_cloud/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/tag_list/</loc>
-        <lastmod>2024-12-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tag_list/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tag_list/"/>
-    </url>
-    <url>
         <loc>https://rangoljx.github.io/blog/</loc>
         <lastmod>2024-12-16</lastmod>
         <changefreq>daily</changefreq>
@@ -258,20 +244,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/message-board/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/message-board/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tag_cloud/</loc>
-        <lastmod>2024-12-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tag_cloud/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tag_cloud/"/>
-    </url>
-    <url>
-        <loc>https://rangoljx.github.io/zh/tag_list/</loc>
-        <lastmod>2024-12-16</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://rangoljx.github.io/zh/tag_list/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://rangoljx.github.io/tag_list/"/>
     </url>
     <url>
         <loc>https://rangoljx.github.io/zh/blog/</loc>

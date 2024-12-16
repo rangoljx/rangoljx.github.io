@@ -200,6 +200,9 @@ nav:
   - Blog: 
     - blog/index.md
 
+  - Material for MkDocs:
+    - Mkdocs搭建总结: mkdocsbuild/build_mkdocs.md
+
   - Software testing:
     - 测试基础:
       - 测试概念与重要性: testing/basics/test-concepts-importance.md

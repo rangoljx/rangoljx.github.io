@@ -14,8 +14,8 @@ hide:
     - [mkdocs—material-超全配置](https://wncfht.github.io/notes/Tools/Blog/Mkdocs_Material/ "mkdocs material 超全配置"){target="_blank"}<br>
     - [GitHub Pages部署mkdocs](https://www.cnblogs.com/E-Dreamer-Blogs/p/13323385.html "GitHub Pages部署mkdocs"){target="_blank"}<br>
     **官方文档:** <br>
-    For full documentation visit [mkdocs.org](https://www.mkdocs.org).<br>
-    For full documentation visit [mkdocs-material.org](https://squidfunk.github.io/mkdocs-material/)
+    For full documentation visit [mkdocs.org](https://www.mkdocs.org){target="_blank"}<br>
+    For full documentation visit [mkdocs-material.org](https://squidfunk.github.io/mkdocs-material/){target="_blank"}
 
 
 !!! note "更新"

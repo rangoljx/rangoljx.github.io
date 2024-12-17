@@ -21,7 +21,7 @@ jobs:
       run: mkdocs build  # 构建 MkDocs 网站
       # 将 BingSiteAuth.xml 添加到根目录
     - name: Add BingSiteAuth.xml to root directory
-      run: cp -f BingSiteAuth.xml. 
+      run: cp -f BingSiteAuth.xml ./site
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:

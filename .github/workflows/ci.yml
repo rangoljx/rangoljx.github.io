@@ -27,10 +27,10 @@ jobs:
       run: cp -f ./Bing-Webmaster-Tool/BingSiteAuth.xml ./site
     - name: Add indexnow to root directory
       run: cp -f ./Bing-Webmaster-Tool/50323f9602a64903a759f76a86741635.txt ./site
-    - name: Add indexnow to root directory
-      run: |
-        mkdir -p ./site/.github/workflows
-        cp -f ./Bing-Webmaster-Tool/IndexNow.yml ./site/.github/workflows/
+    # - name: Add indexnow to root directory
+    #   run: |
+    #     mkdir -p ./site/.github/workflows
+    #     cp -f ./Bing-Webmaster-Tool/IndexNow.yml ./site/.github/workflows/
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:

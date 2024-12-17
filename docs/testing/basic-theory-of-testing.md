@@ -5,6 +5,8 @@ status: new
 tags:
     - 测试基础
     - test
+description: 软件测试理论
+description: 用例设计
 ---
 <center>
 # __软件测试理论__

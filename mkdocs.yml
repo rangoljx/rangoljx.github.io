@@ -182,12 +182,18 @@ plugins:
   # 添加上次更新和创建文档的日期的支持(pip install mkdocs-git-revision-date-localized-plugin)
   - git-revision-date-localized:
       enable_creation_date: true
+      fallback_to_build_date: true
       # date datetime iso_date iso_datetime timeago
       type: iso_date
-  - git-authors
+  # -----pip install mkdocs-git-committers-plugin-2
   # - git-committers:
-  #     repository: squidfunk/mkdocs-material
-  #     branch: main
+  #     repository: rangoljx/rangoljx.github.io
+  #     branch: master
+  # ---------pip install mkdocs-git-authors-plugin
+  #  替代git-committers
+  - git-authors:
+      show_contribution: true
+      show_line_count: true
   # 内置的 optimize 插件使用压缩和转换技术自动识别和优化所有媒体文件
   # - optimize
 

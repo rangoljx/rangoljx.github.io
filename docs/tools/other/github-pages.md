@@ -5,6 +5,7 @@ tags:
     - GitHub pages
     - Mkdocs
 icon: simple/githubpages
+description: 使用GitHub部署Mkdocs不更新
 categories:
     - test 
     - blog

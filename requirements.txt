@@ -8,5 +8,6 @@ mkdocs-rss-plugin
 mkdocs-minify-plugin
 mkdocs_statistics_plugin
 mkdocs-git-revision-date-localized-plugin
+mkdocs-git-committers-plugin-2
 mkdocs-git-authors-plugin
 # mkdocs-glightbox

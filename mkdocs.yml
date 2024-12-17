@@ -5,6 +5,7 @@ site_description: Rango's Notes
 # 代码仓库信息
 repo_name: rango # 仓库名称
 repo_url: https://github.com/rangoljx/rangoljx.github.io/ # 仓库地址
+# edit_url: https://github.com/rangoljx/rangoljx.github.io/ # 仓库地址
 theme:
   name: material
   custom_dir: docs/overrides
@@ -41,7 +42,9 @@ theme:
     text: Roboto
     code: Roboto Mono
   icon: # 一些用到的icon   material/washing-machine-alert
-    repo: simple/github
+    # 修改网站作者仓库图标
+    # repo: simple/github
+    # repo: customsvg/site_author
     edit: material/pencil-box-multiple
     view: material/eye
     logo: simple/testcafe
@@ -183,8 +186,11 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       fallback_to_build_date: true
+      # enable_git_follow: true
       # date datetime iso_date iso_datetime timeago
-      type: iso_date
+      type: date
+      exclude:
+        - index.md
   # -----pip install mkdocs-git-committers-plugin-2
   # - git-committers:
   #     repository: rangoljx/rangoljx.github.io
@@ -194,6 +200,8 @@ plugins:
   - git-authors:
       show_contribution: true
       show_line_count: true
+      exclude:
+        - index.md
   # 内置的 optimize 插件使用压缩和转换技术自动识别和优化所有媒体文件
   # - optimize
 
@@ -307,9 +315,9 @@ extra:
 
 
   # Google Analytics 数据统计
-  analytics: 
-    # 不蒜子配置  
-    busuanzi: true
+  # analytics: 
+  #   # 不蒜子配置  
+  #   busuanzi: true
     # provider: busuanzi
     # property: true
 
@@ -408,6 +416,7 @@ extra_javascript:
   # 修改页面背景特效
   - javascripts/extra.js
   - javascripts/feedback.js
+
 
 
 

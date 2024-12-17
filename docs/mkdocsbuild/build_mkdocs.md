@@ -10,6 +10,8 @@ description: Mkdocs搭建总结
 ---
 # Mkdocs搭建总结
 
+<!-- {{ git_page_authors }} -->
+
 ## 1.摘要
 
 !!! abstract ":simple-abstract:__Abstract__"

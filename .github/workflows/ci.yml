@@ -9,6 +9,7 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2  # 检出代码
+      # 访问接触特定文件的最后一次提交才能检索日期
       with:
         fetch-depth: 0
     - name: Set up Python

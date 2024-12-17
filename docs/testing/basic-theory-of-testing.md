@@ -1,5 +1,6 @@
 ---
 comments: true  #默认不开启评论
+# nostatistics: true
 icon: material/microsoft-xbox-controller-view
 status: new
 tags:
@@ -7,6 +8,7 @@ tags:
     - test
 description: 软件测试理论
 description: 用例设计
+# This page was last updated: *{{ git_revision_date_localized }}*
 ---
 <center>
 # __软件测试理论__

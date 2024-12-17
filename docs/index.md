@@ -58,8 +58,6 @@ nostatistics: true
     }
     </script>
 
-<div STYLE="page-break-after: always;"></div>
-
 !!! quote ""
 
     === "**参考连接:**"

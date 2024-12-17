@@ -25,6 +25,10 @@ jobs:
       # 将 BingSiteAuth.xml 添加到根目录
     - name: Add BingSiteAuth.xml to root directory
       run: cp -f BingSiteAuth.xml ./site
+    - name: Add indexnow to root directory
+      run: cp -f 50323f9602a64903a759f76a86741635.txt ./site
+    - name: Add indexnow to root directory
+      run: cp -f indexNow.yml ./site/.github/workflows
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:

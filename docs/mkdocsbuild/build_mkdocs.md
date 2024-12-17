@@ -7,6 +7,8 @@ tags:
     - Material
 title: Mkdocs搭建总结
 description: Mkdocs搭建总结
+# 不显示页面统计
+# nostatistics: true
 ---
 # Mkdocs搭建总结
 

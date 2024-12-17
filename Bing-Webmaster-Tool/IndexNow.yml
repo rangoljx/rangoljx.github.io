@@ -1,6 +1,6 @@
 name: "IndexNow"
 on:
-  push:
+  deployment:
     branches:
       - gh-pages
   schedule:

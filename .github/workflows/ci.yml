@@ -30,7 +30,7 @@ jobs:
     - name: Add indexnow to root directory
       run: |
         mkdir -p ./site/.github/workflows
-        cp -f ./Bing-Webmaster-Tool/indexNow.yml ./site/.github/workflows/
+        cp -f ./Bing-Webmaster-Tool/IndexNow.yml ./site/.github/workflows/
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:

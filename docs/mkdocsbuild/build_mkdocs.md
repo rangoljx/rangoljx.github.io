@@ -5,7 +5,7 @@ status: new
 tags:
     - Mkdocs
     - Material
-site_description: Mkdocs搭建总结
+description: Mkdocs搭建总结
 ---
 # Mkdocs搭建总结
 

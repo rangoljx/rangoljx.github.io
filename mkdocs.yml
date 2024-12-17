@@ -1,6 +1,7 @@
 site_name: Rango's Notes
 site_url: https://rangoljx.github.io/
 site_author: Rango
+site_description: Rango's Notes
 # 代码仓库信息
 repo_name: rango # 仓库名称
 repo_url: https://github.com/rangoljx/rangoljx.github.io/ # 仓库地址

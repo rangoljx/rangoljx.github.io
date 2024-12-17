@@ -78,7 +78,9 @@ pip install -r requirements.txt
 
 
 
+## 6.将GitHub Pages添加到Bing搜索
 
+<center>[参考链接 :fontawesome-solid-paper-plane:](https://www.cnblogs.com/RainbowC0/p/18107581){ .md-button .md-button--primary target="_blank" }</center>
 
 
 

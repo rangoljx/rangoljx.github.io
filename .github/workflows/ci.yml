@@ -11,7 +11,7 @@ jobs:
       uses: actions/checkout@v2  # 检出代码
       # 将 BingSiteAuth.xml 添加到根目录
     - name: Add BingSiteAuth.xml to root directory
-      run: cp BingSiteAuth.xml .
+      run: cp -f BingSiteAuth.xml. 
     - name: Set up Python
       uses: actions/setup-python@v2
       with:

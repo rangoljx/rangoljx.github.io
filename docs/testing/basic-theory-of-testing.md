@@ -10,9 +10,13 @@ description: 软件测试理论
 description: 用例设计
 # This page was last updated: *{{ git_revision_date_localized }}*
 ---
+
 <center>
 # __软件测试理论__
 </center>
+
+!!! info  ""
+    :material-read: __View__ <span id="busuanzi_value_page_pv"></span> __Times__
 
 ---
 

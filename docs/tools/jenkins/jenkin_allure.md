@@ -9,6 +9,10 @@ description: Jenkins生成allure报告不显示
 ---
 # （踩坑）关于Jenkins生成allure报告不显示数据的问题
 
+!!! info  ""
+    :material-read: __View__ <span id="busuanzi_value_page_pv"></span> __Times__
+
+---
 !!! warning
     <center>**When I wrote this code,<br>
     only God & I understood what it did.**</center>

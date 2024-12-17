@@ -10,6 +10,10 @@ description: Mkdocs搭建总结
 ---
 # Mkdocs搭建总结
 
+!!! info  ""
+    :material-read: __View__ <span id="busuanzi_value_page_pv"></span> __Times__
+
+---
 <!-- {{ git_page_authors }} -->
 
 ## 1.摘要

@@ -13,7 +13,11 @@ categories:
 
 # 关于使用GitHub部署Mkdocs不更新的解决方法
 
-----------
+!!! info  ""
+    :material-read: __View__ <span id="busuanzi_value_page_pv"></span> __Times__
+
+---
+
 ![github](.\GitHubpages.png 'dasd')
 
 1. 确保项目已经正确Push到GitHub，如上图所示，可在`<>Code`中查看更新时间和描述。

@@ -13,9 +13,7 @@ theme:
   language: en # 默认语言
   keyboard: #配置搜索快捷键
     search: s, /
-  # icon:
-  #   logo: material/book-open-page-variant  # 网站 Logo
-  #   repo: fontawesome/brands/github        # 仓库图标
+
   favicon: images/mkdocs_favicon.png              # 网站图标
   palette:
     # 可用的主题色：
@@ -44,7 +42,7 @@ theme:
   icon: # 一些用到的icon   material/washing-machine-alert
     # 修改网站作者仓库图标
     # repo: simple/github
-    # repo: customsvg/site_author
+    repo: customsvg/site-author
     edit: material/pencil-box-multiple
     view: material/eye
     logo: simple/testcafe
@@ -91,7 +89,7 @@ theme:
   - content.code.copy    # 启用代码复制
   # - content.code.select    # 启用代码选择,仅限赞助商
   - content.action.edit  # 页面编辑图标
-  - content.action.view  # 页面编辑图标
+  - content.action.view  # 页面查看图标
   - content.tabs.link   #链接内容选项卡
   - content.tooltips    #改进的工具提示
   # hide:

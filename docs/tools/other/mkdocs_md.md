@@ -7,9 +7,12 @@ icon: simple/materialformkdocs
 description: 在Mkdocs中编写markdown
 ---
 
------------------------
 # <center>{==以下是关于在Mkdocs中编写markdown的一些实践==}
-----------------------
+
+!!! info  ""
+    :material-read: __View__ <span id="busuanzi_value_page_pv"></span> __Times__
+
+---
 
 !!! example
     this is a test example! <br>

@@ -10,6 +10,9 @@ icon: simple/python
 
 # 使用脚本快速生成mkdocs.yaml中nav的文件
 
+!!! info  ""
+    :material-read: __View__ <span id="busuanzi_value_page_pv"></span> __Times__
+
 ---
 
 <center>[点击下载 :material-download:](./navtest.py){ .md-button target="_blank" }</center>

@@ -9,9 +9,6 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2  # 检出代码
-      # 将 BingSiteAuth.xml 添加到根目录
-    - name: Add BingSiteAuth.xml to root directory
-      run: cp -f BingSiteAuth.xml. 
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
@@ -22,6 +19,9 @@ jobs:
         pip cache purge
     - name: Build the MkDocs site
       run: mkdocs build  # 构建 MkDocs 网站
+      # 将 BingSiteAuth.xml 添加到根目录
+    - name: Add BingSiteAuth.xml to root directory
+      run: cp -f BingSiteAuth.xml. 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:

@@ -24,11 +24,13 @@ jobs:
       run: mkdocs build  # 构建 MkDocs 网站
       # 将 BingSiteAuth.xml 添加到根目录
     - name: Add BingSiteAuth.xml to root directory
-      run: cp -f BingSiteAuth.xml ./site
+      run: cp -f ./Bing-Webmaster-Tool/BingSiteAuth.xml ./site
     - name: Add indexnow to root directory
-      run: cp -f 50323f9602a64903a759f76a86741635.txt ./site
+      run: cp -f ./Bing-Webmaster-Tool/50323f9602a64903a759f76a86741635.txt ./site
+    - name: Touch indexNow.yml
+      run: mkdir -p ./site/.github/workflows
     - name: Add indexnow to root directory
-      run: cp -f indexNow.yml ./site/.github/workflows
+      run: cp -f ./Bing-Webmaster-Tool/indexNow.yml ./site/.github/workflows
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:

@@ -5,7 +5,7 @@ status: new
 tags:
     - Mkdocs
     - Material
-
+site_description: Mkdocs搭建总结
 ---
 # Mkdocs搭建总结
 
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
 
 
-## 6.将GitHub Pages添加到Bing搜索
+## 6.把个人Web录入到各大搜索引擎
 
 <center>[参考链接 :fontawesome-solid-paper-plane:](https://www.cnblogs.com/RainbowC0/p/18107581){ .md-button .md-button--primary target="_blank" }</center>
 

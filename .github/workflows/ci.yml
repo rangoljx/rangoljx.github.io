@@ -1,7 +1,6 @@
 name: Deploy MkDocs to GitHub Pages
 permissions:
   contents: write
-  workflows: write
 on:
   push:
     branches:

@@ -34,5 +34,5 @@ jobs:
         publish_dir: ./site  # mkdocs 构建输出目录为 site
     - name: Copy IndexNow workflow
       run: |
-        mkdir -p .github/workflows
-        cp -f ./Bing-Webmaster-Tool/IndexNow.yml .github/workflows/
+        mkdir -p ./site/.github/workflows
+        cp -f ./Bing-Webmaster-Tool/IndexNow.yml ./site/.github/workflows/

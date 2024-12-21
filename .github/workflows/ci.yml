@@ -37,5 +37,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site  # mkdocs 构建输出目录为 site
       - name: Trigger IndexNow workflow
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           gh workflow run IndexNow.yml

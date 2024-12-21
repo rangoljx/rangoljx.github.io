@@ -29,8 +29,8 @@ jobs:
       run: cp -f ./Bing-Webmaster-Tool/50323f9602a64903a759f76a86741635.txt ./site
     - name: Copy IndexNow workflow
       run: |
-        mkdir -p ./site/.github/workflows
-        cp -f ./Bing-Webmaster-Tool/IndexNow.yml ./site/.github/workflows/
+        mkdir -p .github/workflows
+        cp -f ./Bing-Webmaster-Tool/IndexNow.yml .github/workflows/
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:

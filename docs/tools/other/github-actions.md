@@ -5,7 +5,7 @@ tags:
     - Mkdocs
 icon: simple/githubactions
 status: new
-description: GitHub Aactions自动部署
+description: GitHub Actions自动部署的使用配置，GitHub Actions指南，
 ---
 
 # 测试GitHub Aactions自动部署

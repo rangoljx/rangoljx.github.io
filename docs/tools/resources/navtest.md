@@ -6,6 +6,7 @@ tags:
     - nav
 icon: simple/python
 # icon: material/language-python
+description: 使用脚本快速生成mkdocs.yaml中nav的文件,快速构建Mkdocs中的nav导航
 ---
 
 # 使用脚本快速生成mkdocs.yaml中nav的文件

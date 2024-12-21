@@ -5,7 +5,7 @@ tags:
     - allure
 # icon: fontawesome/brands/jenkins
 icon: simple/jenkins
-description: Jenkins生成allure报告不显示
+description: 解决在Jenkins生成allure报告不显示数据的问题，Jenkins配置allure报告，allure报告不显示/显示错误
 ---
 # （踩坑）关于Jenkins生成allure报告不显示数据的问题
 

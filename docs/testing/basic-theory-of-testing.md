@@ -6,8 +6,7 @@ status: new
 tags:
     - 测试基础
     - test
-description: 软件测试理论
-description: 用例设计
+description: 软件测试理论汇总（新手），包括测试流程、用例设计、测试方法、bug组成/管理等
 # This page was last updated: *{{ git_revision_date_localized }}*
 ---
 

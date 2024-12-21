@@ -6,10 +6,11 @@ tags:
     - Mkdocs
     - Material
 title: Mkdocs搭建总结
-description: Mkdocs搭建总结
+description: Mkdocs搭建总结,使用mkdocs-material主题搭建部署个人博客，基于GitHub pages
 # 不显示页面统计
 # nostatistics: true
 ---
+
 # Mkdocs搭建总结
 
 !!! info  ""
@@ -39,6 +40,7 @@ description: Mkdocs搭建总结
         - [x] 基于giscus评论系统
         - [x] 社交卡片、页面统计功能
 ---
+
 ## 2.基本知识
 
 === "使用Mkdocs搭建个人博客，你需要了解、掌握："
@@ -48,6 +50,7 @@ description: Mkdocs搭建总结
     - GitHub的仓库搭建和管理，GitHub Pages的构建和（自动）部署等
     - python基础及其相关IDE的使用
     - Mkdocs 的基本概念和工作原理
+
 ---
 
 ## 3.工具准备
@@ -57,7 +60,7 @@ description: Mkdocs搭建总结
 - vscode
 - 安装Mkdocs及其相关插件: 
 
-```text title="requirements.txt" 
+```text title="requirements.txt"
 mkdocs-material
 mkdocs
 mkdocs-static-i18n
@@ -68,6 +71,7 @@ mkdocs_statistics_plugin
 mkdocs-git-revision-date-localized-plugin
 mkdocs-git-authors-plugin
 ```
+
 :material-text:
 ```py title="安装命令："
 pip install -r requirements.txt

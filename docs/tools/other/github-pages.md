@@ -5,7 +5,7 @@ tags:
     - GitHub pages
     - Mkdocs
 icon: simple/githubpages
-description: 使用GitHub部署Mkdocs不更新
+description: 使用GitHub/GitHub Pages部署Mkdocs不更新的解决办法，GitHub Pages的使用/配置，GitHub分支管理
 categories:
     - test 
     - blog

@@ -4,7 +4,7 @@ tags:
     - Mkdocs
     - markdown
 icon: simple/materialformkdocs
-description: 在Mkdocs中编写markdown
+description: 在Mkdocs中编写markdown的技巧，markdown文档使用技巧，在mkdocs中MD文档使用技巧
 ---
 
 # <center>{==以下是关于在Mkdocs中编写markdown的一些实践==}

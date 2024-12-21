@@ -32,18 +32,18 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./site  # mkdocs 构建输出目录为 site
-    - name: Copy IndexNow workflow
-      run: |
-        mkdir -p ./site/.github/workflows
-        cp -f ./Bing-Webmaster-Tool/IndexNow.yml ./site/.github/workflows/
-    # - name: Copy IndexNow workflow after deploy
+    # - name: Copy IndexNow workflow
     #   run: |
-    #     git config --global user.email "you@example.com"
-    #     git config --global user.name "Your Name"
-    #     git clone --branch=gh-pages https://github.com/rangoljx/rangoljx.github.io.git gh-pages
-    #     mkdir -p gh-pages/.github/workflows
-    #     cp -f ./Bing-Webmaster-Tool/IndexNow.yml gh-pages/.github/workflows/
-    #     cd gh-pages
-    #     git add .github/workflows/IndexNow.yml
-    #     git commit -m "Add IndexNow workflow"
-    #     git push
+    #     mkdir -p ./site/.github/workflows
+    #     cp -f ./Bing-Webmaster-Tool/IndexNow.yml ./site/.github/workflows/
+    - name: Copy IndexNow workflow after deploy
+      run: |
+        # git config --global user.email "you@example.com"
+        # git config --global user.name "Your Name"
+        git clone --branch=gh-pages https://github.com/rangoljx/rangoljx.github.io.git gh-pages
+        mkdir -p gh-pages/.github/workflows
+        cp -f ./Bing-Webmaster-Tool/IndexNow.yml gh-pages/.github/workflows/
+        cd gh-pages
+        git add .github/workflows/IndexNow.yml
+        git commit -m "Add IndexNow workflow"
+        git push

@@ -96,4 +96,4 @@ pip install -r requirements.txt
 <center>[参考链接 :fontawesome-solid-paper-plane:](https://www.cnblogs.com/RainbowC0/p/18107581){ .md-button .md-button--primary target="_blank" }</center>
 
 
-配置indexnow1111测试zido更多
+配置indexnow1111测试zido更多房贷首

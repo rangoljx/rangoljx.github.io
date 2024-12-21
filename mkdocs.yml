@@ -414,7 +414,7 @@ extra_javascript:
   # 修改页面背景特效
   - javascripts/extra.js
   - javascripts/feedback.js
-
+  - https://giscus.app/client.js
 
 
 

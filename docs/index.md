@@ -76,7 +76,7 @@ nostatistics: true
         - 3
 
 ---
-# <center> <font color="black"> <p style="background-color: red;"> 每一颗想赢的心，都有好运。</p>  </font> </center> 
+<center> <font color="black"> <p style="background-color: red;"> 每一颗想赢的心，都有好运。</p>  </font> </center> 
 
 
 

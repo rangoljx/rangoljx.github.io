@@ -1,6 +1,9 @@
 name: "IndexNow to bing"
 on:
-  push:
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types:
+      - completed
     branches:
       - gh-pages
   schedule:

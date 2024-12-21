@@ -10,7 +10,7 @@ theme:
   name: material
   custom_dir: docs/overrides
   # custom_dir: ./overrides
-  language: en # 默认语言
+  language: zH # 默认语言
   keyboard: #配置搜索快捷键
     search: s, /
 
@@ -125,11 +125,11 @@ plugins:
       reconfigure_search: true # 抄来的，不太懂
       languages: # 多语言配置 - 需要小心一点
         - locale: en
-          default: true # 默认语言
           name: English
           build: true # 是否构建
           # site_name: Infinity
         - locale: zh
+          default: true # 默认语言
           name: 简体中文
           build: true
           nav_translations: # 导航栏翻译，不可以有缩进
@@ -139,6 +139,7 @@ plugins:
             TAGS: 标签
             Tools & Software Related (Q&A): 工具&软件相关(Q&A)
             Software testing: 软件测试
+            Message board: 留言板
 
   # 标签系统pip install mkdocs-tags-plugin
   - tags:
@@ -414,7 +415,7 @@ extra_javascript:
   # 修改页面背景特效
   - javascripts/extra.js
   - javascripts/feedback.js
-  - https://giscus.app/client.js
+  # - https://giscus.app/client.js
 
 
 

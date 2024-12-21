@@ -2,7 +2,7 @@
 comments: true  #默认不开启评论
 # nostatistics: true
 icon: material/microsoft-xbox-controller-view
-status: new
+status: added
 tags:
     - 测试基础
     - test

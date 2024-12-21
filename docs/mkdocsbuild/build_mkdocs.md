@@ -6,7 +6,7 @@ tags:
     - Mkdocs
     - Material
 title: Mkdocs搭建总结
-description: Mkdocs搭建总结,使用mkdocs-material主题搭建部署个人博客，基于GitHub pages
+description: Mkdocs搭建总结,使用mkdocs-material主题搭建部署个人博客，基于GitHub pages使用mkdocs搭建博客；Mkdocs配置
 # 不显示页面统计
 # nostatistics: true
 ---

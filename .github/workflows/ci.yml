@@ -1,4 +1,7 @@
 name: Deploy MkDocs to GitHub Pages
+permissions:
+  contents: write
+  workflows: write
 on:
   push:
     branches:
@@ -44,8 +47,4 @@ jobs:
         cp -f ../Bing-Webmaster-Tool/IndexNow.yml .github/workflows/
         git add .github/workflows/IndexNow.yml
         git commit -m "Add IndexNow workflow"
-        git add .github/workflows/IndexNow.yml
         git push https://x-access-token:${GITHUB_TOKEN}@github.com/rangoljx/rangoljx.github.io.git
-
-        git commit -m "Add IndexNow workflow"
-        git push

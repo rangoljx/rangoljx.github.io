@@ -5,5 +5,5 @@ set /p commitMessage="Please enter the submit info:"
 git add .
 git commit -m "autocommit: %commitMessage% - %commitDate%"
 @REM git commit -m "auto-commit - %commitDate%"
-@REM git push -u origin master
-git push -u origin master --force
+git push -u origin master
+@REM git push -u origin master --force

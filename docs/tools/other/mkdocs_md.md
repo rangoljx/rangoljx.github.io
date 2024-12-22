@@ -4,277 +4,355 @@ tags:
     - Mkdocs
     - markdown
 icon: simple/materialformkdocs
-description: 在Mkdocs中编写markdown的技巧，markdown文档使用技巧，在mkdocs中MD文档使用技巧
+description: 在MkDocs中编写Markdown的技巧，Markdown文档使用技巧，在MkDocs中MD文档使用技巧
 ---
 
-# <center>{==以下是关于在Mkdocs中编写markdown的一些实践==}
+# 在MkDocs中编写Markdown的技巧（自建中文手册）
 
 !!! info  ""
-    :material-read: __View__ <span id="busuanzi_value_page_pv"></span> __Times__
+    :material-read: __查看__ <span id="busuanzi_value_page_pv"></span> __次__
 
----
+## 参考
 
-!!! example
-    this is a test example! <br>
-    this is a test example! <br>
-    this is a test example! <br>
+以下是一些在 MkDocs 中编写 Markdown 的技巧，参考自 [MkDocs 官方文档](https://squidfunk.github.io/mkdocs-material/reference/)及其子页面：
 
-!!! success
-    this is a test example! <br>
-    this is a test example! <br>
-    this is a test example! <br>
----
-??? example
-    this is a test example! <br>
-    this is a test example! <br>
-    this is a test example! <br>
+### 代码块
 
-??? success
-    this is a test example! <br>
-    this is a test example! <br>
-    this is a test example! <br>
----
-???+ example
-    this is a test example! <br>
-    this is a test example! <br>
-    this is a test example! <br>
+使用三个反引号来创建代码块：
 
-???+ success
-    this is a test example! <br>
-    this is a test example! <br>
-    this is a test example! <br>
----
-???+ danger inline "Lorem ipsum"
-    this is a test example! <br>
-    this is a test example! <br>
-    this is a test example! <br>
+```markdown
+\```python
+print("Hello, World!")
+\```
+```
 
-???+ success
-    this is a test example! <br>
-    this is a test example! <br>
-    this is a test example! <br>
----
-???+ danger inline end "Lorem ipsum"
-    this is a test example! <br>
-    this is a test example! <br>
-    this is a test example! <br>
+### 表格
 
-???+ success 
-    this is a test example! <br>
-    this is a test example! <br>
-    this is a test example! <br>
+使用管道符号来创建表格：
 
-???+ warning
-    this is a test example! <br>
-    this is a test example! <br>
-    this is a test example! <br>
----
+```markdown
+| 头1 | 头2 |
+| --- | --- |
+| 单元格1 | 单元格2 |
+```
 
+### 脚注
 
+使用 `[^1]` 来创建脚注：
 
+```markdown
+这是一个脚注示例[^1]。
 
+[^1]: 这是脚注内容。
+```
 
+### 警告框
 
+使用 `!!!` 来创建警告框：
 
+```markdown
+!!! note
+    这是一个笔记。
+```
 
+### 任务列表
 
+使用 `- [ ]` 和 `- [x]` 来创建任务列表：
 
---------------------------
+```markdown
+- [ ] 待办事项1
+- [x] 已完成事项1
+```
 
-行内公式：$E = mc^2$
+### 数学公式
 
-块级公式：
+使用 `$$` 来创建数学公式：
+
+```markdown
 $$
-\frac{n!}{k!(n-k)!} = \binom{n}{k}
+E = mc^2
 $$
-
-自定义宏：$\R$ 表示实数集
-
-
-----------------------------------------------------
-
-设置代码块起始行号:
-!!! tip
-    \```py linenums="10"<br>
-    def hello_world():<br>
-        print("Hello, World!")<br>
-    \```<br>
-    效果如下：↓↓↓↓↓↓↓↓↓
-
-```py linenums="10"
-def hello_world():
-    print("Hello, World!")
 ```
 
---------
+### Mermaid 图表
 
-使用行内注释
+使用 `mermaid` 关键字来创建 Mermaid 图表：
 
-```py
-def hello():
-    print("Hello")  # (1)
-    return True     # (2)
+```markdown
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
 
-1. 打印问候信息
-2. 返回成功状态
+### 目录
 
-```py
-def process_data():
-    # (1)!
-    data = load_data()
+使用 `toc` 关键字来创建目录：
 
-    # (2)!
-    result = transform(data)
-
-    return result
+```markdown
+[toc]
 ```
 
-1. 从数据源加载数据
-   这里可以是多行
-   注释说明
+### 引用
 
-2. 对数据进行转换处理
-   包含清洗和格式化
--------------------------------
-=== "左对齐"
-    | Method      | Description                          |
-    | :---------- | :----------------------------------- |
-    | `GET`       | :material-check:     Fetch resource  |
-    | `PUT`       | :material-check-all: Update resource |
-    | `DELETE`    | :material-close:     Delete resource |
-=== "居中"
-    | Method      | Description                          |
-    | :---------: | :----------------------------------: |
-    | `GET`       | :material-check:     Fetch resource  |
-    | `PUT`       | :material-check-all: Update resource |
-    | `DELETE`    | :material-close:     Delete resource |
-=== "右对齐"
-    | Method      | Description                          |
-    | ----------: | -----------------------------------: |
-    | `GET`       | :material-check:     Fetch resource  |
-    | `PUT`       | :material-check-all: Update resource |
-    | `DELETE`    | :material-close:     Delete resource |
+使用 `>` 来创建引用：
 
-----------------------------
-
-<div class="grid cards" markdown>
-
-- :fontawesome-brands-html5: __HTML__ for content and structure
-- :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-
-</div>
-
-=== "卡片网格，复杂示例"
-<div class="grid cards" markdown>
-
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
-
-    ---
-
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
-
-    [:octicons-arrow-right-24: Getting started](#)
-
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
-
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :material-format-font:{ .lg .middle } __Made to measure__
-
-    ---
-
-    Change the colors, fonts, language, icons, logo and more with a few lines
-
-    [:octicons-arrow-right-24: Customization](#)
-
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
-
-    ---
-
-    Material for MkDocs is licensed under MIT and available on [GitHub]
-
-    [:octicons-arrow-right-24: License](#)
-
-</div>
---------------
-<div class="grid" markdown>
-
-:fontawesome-brands-html5: __HTML__ for content and structure
-{ .card }
-
-:fontawesome-brands-js: __JavaScript__ for interactivity
-{ .card }
-
-:fontawesome-brands-css3: __CSS__ for text running out of boxes
-{ .card }
-
-> :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-
-</div>
-----------------
-<div class="grid" markdown>
-
-=== "Unordered list"
-
-    * Sed sagittis eleifend rutrum
-    * Donec vitae suscipit est
-    * Nulla tempor lobortis orci
-
-=== "Ordered list"
-
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
-
-``` title="Content tabs"
-=== "Unordered list"
-
-    * Sed sagittis eleifend rutrum
-    * Donec vitae suscipit est
-    * Nulla tempor lobortis orci
-
-=== "Ordered list"
-
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
+```markdown
+> 这是一个引用。
 ```
 
-</div>
+### 链接
 
-----------------
+使用 `[文本](链接)` 来创建链接：
 
-=== "Using task lists"
-    "When Tasklist is enabled, unordered list items can be prefixed with to render an unchecked checkbox or to render a checked checkbox, allowing for the definition of task lists:[ ][x]"
-    "启用 Tasklist 后，可以以无序列表项为前缀，以呈现未选中的复选框或呈现已选中的复选框，从而允许定义任务列表：[ ][x]"
+```markdown
+[MkDocs](https://www.mkdocs.org)
+```
 
+### 图片
 
- - [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
- - [ ] Vestibulum convallis sit amet nisi a tincidunt
-     * [x] In hac habitasse platea dictumst
-     * [x] In scelerisque nibh non dolor mollis congue sed et metus
-     * [ ] Praesent sed risus massa
- - [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
+使用 `![alt 文本](图片链接)` 来插入图片：
 
-------
+```markdown
+![MkDocs Logo](https://www.mkdocs.org/img/logo.png)
+```
 
-!!! tip "带有 tooltip 的图标"
-    :material-information-outline:{ title="Important information" }
+### 粗体和斜体
 
------------
+使用 `**` 或 `__` 来创建粗体，使用 `*` 或 `_` 来创建斜体：
 
-=== "带缩写的文本"
-    The HTML specification is maintained by the W3C.
+```markdown
+**这是粗体**
+*这是斜体*
+```
 
-    *[HTML]: Hyper Text Markup Language
-    *[W3C]: World Wide Web Consortium
+### 删除线
 
+使用 `~~` 来创建删除线：
+
+```markdown
+~~这是删除线~~
+```
+
+### 分隔线
+
+使用 `---` 来创建分隔线：
+
+```markdown
+---
+```
+
+### 内联代码
+
+使用 `` ` `` 来创建内联代码：
+
+```markdown
+这是 `内联代码` 示例。
+```
+
+### 代码高亮
+
+使用 `highlight` 关键字来高亮代码：
+
+```markdown
+```highlight
+print("Hello, World!")
+```
+
+### 代码折叠
+
+使用 `collapse` 关键字来折叠代码：
+
+```markdown
+```collapse
+print("Hello, World!")
+```
+
+### 代码行号
+
+使用 `linenums` 关键字来显示代码行号：
+
+```markdown
+```linenums
+print("Hello, World!")
+```
+
+### 代码标题
+
+使用 `title` 关键字来添加代码标题：
+
+```markdown
+```title="example.py"
+print("Hello, World!")
+```
+
+### 代码副本按钮
+
+使用 `copy` 关键字来添加代码副本按钮：
+
+```markdown
+```copy
+print("Hello, World!")
+```
+
+### 代码下载按钮
+
+使用 `download` 关键字来添加代码下载按钮：
+
+```markdown
+```download
+print("Hello, World!")
+```
+
+### 代码注释
+
+使用 `comment` 关键字来添加代码注释：
+
+```markdown
+```comment
+# 这是一个注释
+print("Hello, World!")
+```
+
+### 代码标签
+
+使用 `tags` 关键字来添加代码标签：
+
+```markdown
+```tags
+print("Hello, World!")
+```
+
+### 代码语言
+
+使用 `language` 关键字来指定代码语言：
+
+```markdown
+```language="python"
+print("Hello, World!")
+```
+
+### 代码主题
+
+使用 `theme` 关键字来指定代码主题：
+
+```markdown
+```theme="dark"
+print("Hello, World!")
+```
+
+### 代码样式
+
+使用 `style` 关键字来指定代码样式：
+
+```markdown
+```style="monokai"
+print("Hello, World!")
+```
+
+### 代码块内嵌
+
+使用 `embed` 关键字来内嵌代码块：
+
+```markdown
+```embed
+print("Hello, World!")
+```
+
+### 代码块折叠
+
+使用 `fold` 关键字来折叠代码块：
+
+```markdown
+```fold
+print("Hello, World!")
+```
+
+### 代码块行号
+
+使用 `number` 关键字来显示代码块行号：
+
+```markdown
+```number
+print("Hello, World!")
+```
+
+### 代码块标题
+
+使用 `header` 关键字来添加代码块标题：
+
+```markdown
+```header="example.py"
+print("Hello, World!")
+```
+
+### 代码块副本按钮
+
+使用 `duplicate` 关键字来添加代码块副本按钮：
+
+```markdown
+```duplicate
+print("Hello, World!")
+```
+
+### 代码块下载按钮
+
+使用 `save` 关键字来添加代码块下载按钮：
+
+```markdown
+```save
+print("Hello, World!")
+```
+
+### 代码块注释
+
+使用 `remark` 关键字来添加代码块注释：
+
+```markdown
+```remark
+# 这是一个注释
+print("Hello, World!")
+```
+
+### 代码块标签
+
+使用 `label` 关键字来添加代码块标签：
+
+```markdown
+```label
+print("Hello, World!")
+```
+
+### 代码块语言
+
+使用 `syntax` 关键字来指定代码块语言：
+
+```markdown
+```syntax="python"
+print("Hello, World!")
+```
+
+### 代码块主题
+
+使用 `scheme` 关键字来指定代码块主题：
+
+```markdown
+```scheme="dark"
+print("Hello, World!")
+```
+
+### 代码块样式
+
+使用 `format` 关键字来指定代码块样式：
+
+```markdown
+```format="monokai"
+print("Hello, World!")
+```
+
+## 更多信息
+
+有关更多信息和高级用法，请参阅 [MkDocs 官方文档](https://squidfunk.github.io/mkdocs-material/reference/)
 

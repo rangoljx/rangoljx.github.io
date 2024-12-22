@@ -413,3 +413,17 @@
 // requestFrame();
 // //雪花
 
+// // Busuanzi 统计代码
+// document.addEventListener("DOMContentLoaded", function() {
+//     var busuanziDiv = document.createElement("div");
+//     busuanziDiv.id = "busuanzi_container_page_pv";
+//     busuanziDiv.style.textAlign = "right";
+//     busuanziDiv.style.fontSize = "0.8em";
+//     busuanziDiv.innerHTML = '本页访问次数: <span id="busuanzi_value_page_pv"></span>';
+//     document.body.appendChild(busuanziDiv);
+
+//     // 加载 Busuanzi 脚本
+//     var script = document.createElement("script");
+//     script.src = "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js";
+//     document.body.appendChild(script);
+// });

@@ -67,7 +67,7 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
   features:
-  - navigation.instant #- header.autohide  #自动隐藏
+  # - navigation.instant #- header.autohide  #自动隐藏
   - navigation.instant.progress #进度指示器
   - navigation.instant.preview #全局自动预览
   - navigation.tabs #顶级部分将呈现在上面视口标题下方的菜单层中，但在移动设备上保持原样
@@ -129,16 +129,6 @@ plugins:
             Software testing: 软件测试
             Message board: 留言板
 
-  # 标签系统pip install mkdocs-tags-plugin
-  - tags:
-      tags_file: tags.md #标签
-      # tags_allowed:  # 允许的标签列表
-      #   - Python
-      #   - JavaScript
-      #   - CSS
-      #   - HTML
-      #   - Linux
-
   # 统计分析
   - statistics:
       page_statistics: true # 是否在单页中显示统计信息
@@ -166,13 +156,6 @@ plugins:
       zoomable: true               # 启用缩放
       draggable: true              # 启用拖动
 
-  # 博客设置(rss插件：pip install mkdocs-rss-plugin)
-  - blog
-  # - blog:
-  #     blog_dir: blog
-  #     blog_toc: true  #利用目录在视图中显示文章标题
-  #     post_date_format: full
-  #     enabled: false
   # 添加上次更新和创建文档的日期的支持(pip install mkdocs-git-revision-date-localized-plugin)
   - git-revision-date-localized:
       enable_creation_date: true
@@ -190,7 +173,8 @@ plugins:
   - git-committers:
       repository: rangoljx/rangoljx.github.io
       branch: master
-      show_line_count: true
+      token: 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
+      # show_line_count: true
       exclude:
         - index.md
         - tags.md
@@ -203,11 +187,33 @@ plugins:
   #     exclude:
   #       - index.md
 
+  # 博客设置(rss插件：pip install mkdocs-rss-plugin)
+  # - blog:
+  #     blog_dir: blog
+  #     blog_toc: true  #利用目录在视图中显示文章标题
+  #     post_date_format: full
+  #     post_excerpt: optional
+  #     archive: true
+  #     archive_date_format: MMMM yyyy
+  #     archive_toc: true
+  #     draft: true
+  #     enabled: false
+  
+  # 标签系统pip install mkdocs-tags-plugin
+  - tags:
+      tags_file: tags.md #标签
+      # tags_allowed:  # 允许的标签列表
+      #   - Python
+
+hooks:
+  - hooks/socialmedia.py
+
 # 导航设置
 nav: 
   - HOME: index.md
   # - Blog: 
   #   - blog/index.md
+  #   # - Mkdocs搭建总结: blog/build_mkdocs.md
 
   - Material for MkDocs:
     - Mkdocs搭建总结: mkdocsbuild/build_mkdocs.md
@@ -289,9 +295,9 @@ extra:
     - icon: fontawesome/brands/bilibili
       link: https://www.bilibili.com/
       name: Bilibili
-    - icon: material/microsoft-outlook
-      link: mailto:<ljxrango@outlook.com> #联系方式
-      name: Outlook邮箱
+    - icon: material/email
+      link: mailto:<rangoljx@163.com> #联系方式
+      name: 163邮箱
   # 分享功能配置（未实现）
   social_share:
     - platform: twitter
@@ -413,7 +419,6 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
   # Mermaid 图表
   - https://unpkg.com/mermaid@9/dist/mermaid.min.js
-  - https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
   - https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
   # 修改页面背景特效
   - javascripts/extra.js

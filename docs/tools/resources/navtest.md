@@ -77,6 +77,60 @@ description: 使用脚本快速生成mkdocs.yaml中nav的文件,快速构建Mkdo
     create_markdown_files(md_file_paths, output_dir)
     ```
 
+## 脚本说明
+
+这个脚本用于从一个包含文件列表的文本文件中读取路径，并在指定的输出目录中创建对应的 Markdown 文件。
+
+### 文件列表格式
+
+文件列表应该是一个文本文件，每行包含一个描述和文件路径，用 `: ` 分隔。例如：
+
+```
+描述1: path/to/file1.md
+描述2: path/to/file2.md
+```
+
+### 使用方法
+
+1. 将 `navtest.py` 脚本下载到你的项目目录。
+2. 修改脚本中的 `file_list_path` 和 `output_dir` 变量，分别指定文件列表的路径和输出目录。
+3. 运行脚本，生成的 Markdown 文件将会被创建在指定的输出目录中。
+
+## 示例
+
+假设你的文件列表 `nav.txt` 内容如下：
+
+```
+首页: index.md
+关于: about.md
+文档: docs/documentation.md
+```
+
+运行脚本后，将会在输出目录中生成以下文件：
+
+```
+output_dir/
+├── index.md
+├── about.md
+└── docs/
+    └── documentation.md
+```
+
+每个生成的 Markdown 文件将包含以下默认内容：
+
+```markdown
+---
+tags:
+---
+
+#
+```
+
+## 更多资源
+
+- [MkDocs 官方文档](https://www.mkdocs.org/)
+- [Python 文件操作](https://docs.python.org/3/library/os.html)
+
 
 
 

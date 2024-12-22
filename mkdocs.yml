@@ -10,7 +10,7 @@ theme:
   name: material
   custom_dir: docs/overrides
   # custom_dir: ./overrides
-  language: zH # 默认语言
+  language: zh # 默认语言
   keyboard: #配置搜索快捷键
     search: s, /
 

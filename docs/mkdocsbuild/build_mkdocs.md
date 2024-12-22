@@ -1,7 +1,7 @@
 ---
 comments: true  #默认不开启评论
 icon: material/library-outline
-status: new
+status: updated
 tags:
     - Mkdocs
     - Material
@@ -9,6 +9,8 @@ title: Mkdocs搭建总结
 description: Mkdocs搭建总结,使用mkdocs-material主题搭建部署个人博客，基于GitHub pages使用mkdocs搭建博客；Mkdocs配置
 # 不显示页面统计
 # nostatistics: true
+# 强制显示其他贡献者
+# contributors: byrnereese,grokify
 ---
 
 # Mkdocs搭建总结
@@ -17,7 +19,6 @@ description: Mkdocs搭建总结,使用mkdocs-material主题搭建部署个人博
     :material-read: __View__ <span id="busuanzi_value_page_pv"></span> __Times__
 
 ---
-<!-- {{ git_page_authors }} -->
 
 ## 1.摘要
 
@@ -61,15 +62,19 @@ description: Mkdocs搭建总结,使用mkdocs-material主题搭建部署个人博
 - 安装Mkdocs及其相关插件: 
 
 ```text title="requirements.txt"
-mkdocs-material
 mkdocs
+mkdocs-material
 mkdocs-static-i18n
+# mkdocs-tags-plugin
+# mkdocs-statistics-plugin
 mkdocs-glightbox
 mkdocs-rss-plugin
 mkdocs-minify-plugin
 mkdocs_statistics_plugin
 mkdocs-git-revision-date-localized-plugin
-mkdocs-git-authors-plugin
+mkdocs-git-committers-plugin-2
+# mkdocs-git-authors-plugin
+# mkdocs-glightbox
 ```
 
 :material-text:
@@ -99,3 +104,4 @@ pip install -r requirements.txt
 ### 配置indexnow并集自动部署提交
 
 
+{{ git-authors }}

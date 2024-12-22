@@ -1,4 +1,11 @@
 ---
+# comments: true
+hide:
+    - footer
+    - navigation
+    - toc
+# 不显示页面统计
+nostatistics: true
 ---
 # <center> 关于本站 </center>
 

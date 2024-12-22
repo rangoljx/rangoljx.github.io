@@ -104,19 +104,7 @@ plugins:
         - en
         - zh
       separator: '[\s\-\.]+' # 分词分隔符
-      min_search_length: 2 # 最小搜索长度
-      prebuild_index: ture  # 预构建索引
-      # 搜索内容配置
-      indexing:
-        full_sections: true       # 索引完整章节
-        headings: true           # 索引标题
-        content: true           # 索引内容
-        tags: true             # 索引标签
-      # 搜索结果排序
-      scoring:
-        title_boost: 10        # 标题权重
-        heading_boost: 5       # 标题权重
-        content_boost: 1       # 内容权重
+      # jieba_dict: dict.txt.small
 
   - i18n: # 多语言插件
       docs_structure: suffix # 抄来的，不太懂
@@ -153,17 +141,21 @@ plugins:
 
   # 统计分析
   - statistics:
-      page_statistics: True #是否在单页中显示统计信息
-      page_read_time: True #是否显示单页预计阅读时间
-      page_images: True #是否显示单页图片张数
-      page_check_metadata: #如果为空，则所有页面都显示；否则包含指定 metadata 才显示单页统计信息
+      page_statistics: true # 是否在单页中显示统计信息
+      page_read_time: true # 是否显示单页预计阅读时间
+      page_images: true # 是否显示单页图片张数
+      page_check_metadata: # 如果为空，则所有页面都显示；否则包含指定 metadata 才显示单页统计信息
+      # 全局统计信息
+      # pages_placeholder: \{\{\s*pages\s*\}\} # 页面数占位符
+      # words_placeholder: \{\{\s*words\s*\}\} # 字数占位符
+      # images_placeholder: \{\{\s*codes\s*\}\} # 图片数占位符
 
   # 图片预览插件pip install mkdocs-glightbox
   - glightbox:
       # 基础设置
       auto_caption: true              # 自动添加标题
       caption_position: bottom        # 标题位置
-      display_description: true       # 显示描述
+      # display_description: true       # 显示描述
       # 触摸设置
       touchNavigation: true          # 触摸导航
       loop: true                    # 循环浏览
@@ -190,20 +182,26 @@ plugins:
       type: date
       exclude:
         - index.md
+        - tags.md
+        - about.md
+        - message-board.md
   # -----pip install mkdocs-git-committers-plugin-2
-  # - git-committers:
-  #     repository: rangoljx/rangoljx.github.io
-  #     branch: master
-  # ---------pip install mkdocs-git-authors-plugin
-  #  替代git-committers
-  - git-authors:
-      show_contribution: true
+  #   替代git-authors,自动获取仓库信息 显示头像
+  - git-committers:
+      repository: rangoljx/rangoljx.github.io
+      branch: master
       show_line_count: true
       exclude:
         - index.md
-  # 内置的 optimize 插件使用压缩和转换技术自动识别和优化所有媒体文件
-  # - optimize
-
+        - tags.md
+        - about.md
+        - message-board.md
+  # ---------pip install mkdocs-git-authors-plugin
+  # - git-authors:
+  #     show_contribution: true
+  #     show_line_count: true
+  #     exclude:
+  #       - index.md
 
 # 导航设置
 nav: 
@@ -260,10 +258,15 @@ copyright: Copyright &copy; 2024 Rango
 extra:
   # generator: false  #删除页脚显示“使用 MkDocs 材料制造”
   status:
-    new: new
-    Recently: Recently
-    added: added
-    deprecated: deprecated
+    new: new  #新创建的文档
+    Recently: Recently  #最近更新的文档
+    added: added #新添加的内容
+    deprecated: deprecated #弃用的内容
+    updated: updated #更新的内容
+    in-progress: in-progress #进行中的内容
+    draft: draft  #草稿状态的内容
+    review: review #正在审核中的内容
+    final: final #最终版本的内容
   cdn:
     # 使用国内 CDN
     enable: true
@@ -311,7 +314,6 @@ extra:
     #   repo_id: your_repo_id
     #   category: Comments
     #   category_id: your_category_id
-
 
   # Google Analytics 数据统计
   # analytics: 
@@ -411,6 +413,7 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
   # Mermaid 图表
   - https://unpkg.com/mermaid@9/dist/mermaid.min.js
+  - https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
   - https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
   # 修改页面背景特效
   - javascripts/extra.js

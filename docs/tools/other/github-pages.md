@@ -18,7 +18,7 @@ categories:
 
 ---
 
-![github](.\GitHubpages.png 'dasd')
+![github](.\GitHubpages.png 'dasd'){.glighhbox}
 
 1. 确保项目已经正确Push到GitHub，如上图所示，可在`<>Code`中查看更新时间和描述。
 

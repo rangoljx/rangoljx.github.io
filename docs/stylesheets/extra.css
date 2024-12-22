@@ -1,9 +1,11 @@
 /* Sets the color style of the file time display */
 /* .git-revision-date-localized-plugin { color: red; } */
 /* .git-revision-date-localized-plugin { color: rgba(98, 194, 15, 0.712); background:linear-gradient(rgb(231, 43, 43), rgba(68, 204, 241, 0.86));} */
-.git-revision-date-localized-plugin { color: rgba(48, 213, 163, 0.993);}
+.git-revision-date-localized-plugin { color: rgba(48, 213, 163, 0.993); }
 
 /* .md-grid {
     max-width: 1240px; 
   } */
+
+
 

@@ -40166,7 +40166,9 @@ QmCC" />
 <h2 id="五软件测试的方法">五、软件测试的方法<a class="headerlink" href="#五软件测试的方法" title="Permanent link">&para;</a></h2>
 <h3 id="1黑盒测试">1.黑盒测试<a class="headerlink" href="#1黑盒测试" title="Permanent link">&para;</a></h3>
 <div class="admonition note">
-<div class="tabbed-set" data-tabs="1:7"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><label for="__tabbed_1_1">1.1等价类划分法：</label><div class="tabbed-content">
+<div class="tabbed-set tabbed-alternate" data-tabs="1:7"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><input id="__tabbed_1_5" name="__tabbed_1" type="radio" /><input id="__tabbed_1_6" name="__tabbed_1" type="radio" /><input id="__tabbed_1_7" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">1.1等价类划分法：</label><label for="__tabbed_1_2">1.2边界值分析法：</label><label for="__tabbed_1_3">1.3.因果图法：</label><label for="__tabbed_1_4">1.4.决策表法：</label><label for="__tabbed_1_5">1.5.正交试验法：</label><label for="__tabbed_1_6">1.6.场景法：</label><label for="__tabbed_1_7">1.7.错误推测法</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 方法描述：将输入数据划分为若干个等价类，每个等价类代表着一种可能的输入情况。等价类可以分为有效等价类和无效等价类。有效等价类是指符合需求规格说明的输入数据，无效等价类则是不符合需求规格说明的输入数据。从每个等价类中选取一个代表性的数据进行测试，以覆盖所有可能的输入情况。</li>
 </ul>
@@ -40175,7 +40177,7 @@ QmCC" />
 <p>对于一个要求输入整数的功能，可将输入划分为以下等价类：有效等价类为整数，无效等价类为非整数（如小数、字符等）。从有效等价类中选择一个整数（如5），从无效等价类中选择一个非整数（如3.14）进行测试。</p>
 </details>
 </div>
-<input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><label for="__tabbed_1_2">1.2边界值分析法：</label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 方法描述：选取输入数据的边界值进行测试，因为在边界值附近往往容易出现错误。边界值包括输入数据的最小值、略大于最小值的值、最大值、略小于最大值的值。</li>
 </ul>
@@ -40184,7 +40186,7 @@ QmCC" />
 <p>对于一个输入范围为1到100的整数功能，边界值为1、2、99、100。分别使用这些边界值进行测试。</p>
 </details>
 </div>
-<input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><label for="__tabbed_1_3">1.3.因果图法：</label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 方法描述：通过分析输入条件之间的因果关系，生成判定表，从而设计测试用例。因果图法适用于输入条件之间存在多种组合关系的情况。</li>
 </ul>
@@ -40193,7 +40195,7 @@ QmCC" />
 <p>一个功能的输入条件有A（是否登录）和B（是否付费），输出结果为C（是否能查看内容）。根据因果关系，当A为真且B为真时，C为真；当A为真且B为假时，C为假；当A为假时，C为假。根据这个因果关系生成判定表，设计相应的测试用例。</p>
 </details>
 </div>
-<input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><label for="__tabbed_1_4">1.4.决策表法：</label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 方法描述：将条件和动作列成表格，根据条件的组合来确定应采取的动作，从而设计测试用例。决策表法适用于条件和动作之间存在复杂逻辑关系的情况。</li>
 </ul>
@@ -40202,7 +40204,7 @@ QmCC" />
 <p>一个功能的条件有A（文件是否存在）、B（用户是否有访问权限），动作有C（打开文件）、D（提示文件不存在）、E（提示无访问权限）。根据条件的组合，列出决策表，设计相应的测试用例。</p>
 </details>
 </div>
-<input id="__tabbed_1_5" name="__tabbed_1" type="radio" /><label for="__tabbed_1_5">1.5.正交试验法：</label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 方法描述：从大量的试验点中挑选出适量的、有代表性的点，应用依据伽罗瓦理论导出的“正交表”，合理地安排试验的一种科学的试验设计方法。</li>
 </ul>
@@ -40211,7 +40213,7 @@ QmCC" />
 <p>对于一个具有多个输入参数的功能，每个参数有多个取值。通过正交试验法，可以选择较少的组合进行测试，同时能够覆盖大部分的情况。例如，一个功能有三个参数A、B、C，每个参数有三个取值，通过正交表选择9个组合进行测试。</p>
 </details>
 </div>
-<input id="__tabbed_1_6" name="__tabbed_1" type="radio" /><label for="__tabbed_1_6">1.6.场景法：</label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 方法描述：通过模拟用户的操作场景来设计测试用例，主要用于测试系统的业务流程。场景法通常包括基本流（正常的操作流程）和备选流（异常的操作流程）。</li>
 </ul>
@@ -40220,7 +40222,7 @@ QmCC" />
 <p>对于一个网上购物的系统，基本流为用户登录、选择商品、加入购物车、结算、支付。备选流可以包括用户未登录时进行操作、商品库存不足、支付失败等情况。根据这些流程设计测试用例。</p>
 </details>
 </div>
-<input id="__tabbed_1_7" name="__tabbed_1" type="radio" /><label for="__tabbed_1_7">1.7.错误推测法</label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 方法描述：是基于经验和直觉推测程序中可能存在的各种错误，从而有针对性地设计测试用例的方法。测试人员根据自己的经验、知识和直觉，对软件可能出现的错误进行分析和推测，然后设计相应的测试用例来验证这些推测。</li>
 </ul>
@@ -40231,9 +40233,12 @@ QmCC" />
 </div>
 </div>
 </div>
+</div>
 <h3 id="2白盒测试">2.白盒测试<a class="headerlink" href="#2白盒测试" title="Permanent link">&para;</a></h3>
 <div class="admonition note">
-<div class="tabbed-set" data-tabs="2:6"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio" /><label for="__tabbed_2_1">语句覆盖：</label><div class="tabbed-content">
+<div class="tabbed-set tabbed-alternate" data-tabs="2:6"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio" /><input id="__tabbed_2_2" name="__tabbed_2" type="radio" /><input id="__tabbed_2_3" name="__tabbed_2" type="radio" /><input id="__tabbed_2_4" name="__tabbed_2" type="radio" /><input id="__tabbed_2_5" name="__tabbed_2" type="radio" /><input id="__tabbed_2_6" name="__tabbed_2" type="radio" /><div class="tabbed-labels"><label for="__tabbed_2_1">语句覆盖：</label><label for="__tabbed_2_2">判定覆盖：</label><label for="__tabbed_2_3">条件覆盖：</label><label for="__tabbed_2_4">判定 - 条件覆盖：</label><label for="__tabbed_2_5">条件组合覆盖：</label><label for="__tabbed_2_6">路径覆盖：</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 目标是确保程序中的每一条语句都至少被执行一次。</li>
 <li>这是一种较弱的覆盖标准，因为它可能无法发现逻辑错误，特别是在判定语句中。</li>
@@ -40251,37 +40256,38 @@ QmCC" />
 <li>一个满足语句覆盖的测试用例可以是 a = 2, b = 1，这样每条语句都至少被执行了一次。</li>
 </ul>
 </div>
-<input id="__tabbed_2_2" name="__tabbed_2" type="radio" /><label for="__tabbed_2_2">判定覆盖：</label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 要求程序中的每个判定的取真分支和取假分支都至少被执行一次。</li>
 <li>比语句覆盖更严格，但仍然可能忽略某些条件组合的情况。</li>
 <li>对于上述代码片段，满足判定覆盖的测试用例可以是 a = 2, b = 1（使判定为真）和 a = 1, b = 2（使判定为假）。</li>
 </ul>
 </div>
-<input id="__tabbed_2_3" name="__tabbed_2" type="radio" /><label for="__tabbed_2_3">条件覆盖：</label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 确保判定中的每个条件的可能取值至少满足一次。</li>
 <li>对于含有多个条件的判定语句，需要考虑每个条件的各种可能取值。</li>
 <li>例如，对于代码 if (a &gt; b and c &gt; d)，条件覆盖的测试用例需要包括 a &gt; b 为真和为假的情况，以及 c &gt; d 为真和为假的情况。</li>
 </ul>
 </div>
-<input id="__tabbed_2_4" name="__tabbed_2" type="radio" /><label for="__tabbed_2_4">判定 - 条件覆盖：</label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 结合了判定覆盖和条件覆盖的要求，既保证每个判定的结果至少出现一次，又保证每个条件的取值至少出现一次。</li>
 <li>对于复杂的判定语句，需要仔细设计测试用例以满足这两个要求。</li>
 </ul>
 </div>
-<input id="__tabbed_2_5" name="__tabbed_2" type="radio" /><label for="__tabbed_2_5">条件组合覆盖：</label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 使每个判定中条件的各种可能组合都至少出现一次。</li>
 <li>这是一种较强的覆盖标准，但在实际应用中，可能会因为条件组合的数量过多而导致测试用例数量庞大。</li>
 </ul>
 </div>
-<input id="__tabbed_2_6" name="__tabbed_2" type="radio" /><label for="__tabbed_2_6">路径覆盖：</label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M0 80v149.5c0 17 6.7 33.3 18.7 45.3l176 176c25 25 65.5 25 90.5 0l133.5-133.5c25-25 25-65.5 0-90.5l-176-176c-12-12-28.3-18.7-45.3-18.7L48 32C21.5 32 0 53.5 0 80m112 32a32 32 0 1 1 0 64 32 32 0 1 1 0-64"/></svg></span> 目标是覆盖程序中所有可能的路径。</li>
 <li>这是一种非常严格的覆盖标准，在实际项目中往往很难实现，因为程序的路径数量可能会非常多。</li>
 </ul>
+</div>
 </div>
 </div>
 </div>
@@ -40346,13 +40352,19 @@ QmCC" />
 <h3 id="测试用例设计概述">测试用例设计概述<a class="headerlink" href="#测试用例设计概述" title="Permanent link">&para;</a></h3>
 <details class="note" open="open">
 <summary>Note</summary>
-<div class="tabbed-set" data-tabs="3:1"><input checked="checked" id="__tabbed_3_1" name="__tabbed_3" type="radio" /><label for="__tabbed_3_1">测试用例的定义</label><div class="tabbed-content"></div>
+<div class="tabbed-set tabbed-alternate" data-tabs="3:1"><input checked="checked" id="__tabbed_3_1" name="__tabbed_3" type="radio" /><div class="tabbed-labels"><label for="__tabbed_3_1">测试用例的定义</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block"></div>
+</div>
 </div>
 <ul>
 <li>测试用例是为了特定的测试目的而设计的一组测试输入、执行条件和预期结果的集合。</li>
 <li>它是软件测试的重要组成部分，用于验证软件是否满足规定的需求和功能。</li>
 </ul>
-<div class="tabbed-set" data-tabs="4:1"><input checked="checked" id="__tabbed_4_1" name="__tabbed_4" type="radio" /><label for="__tabbed_4_1">测试用例的重要性</label><div class="tabbed-content"></div>
+<div class="tabbed-set tabbed-alternate" data-tabs="4:1"><input checked="checked" id="__tabbed_4_1" name="__tabbed_4" type="radio" /><div class="tabbed-labels"><label for="__tabbed_4_1">测试用例的重要性</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block"></div>
+</div>
 </div>
 <ul>
 <li>确保软件质量：通过全面的测试用例设计，可以发现软件中的缺陷和问题，提高软件的质量和可靠性。</li>

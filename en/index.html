@@ -38381,30 +38381,35 @@ QmCC" />
 <!-- # <font color=#"789510"> **Welcome to Rango's note!** </font> -->
 <h1 id="and_you_my_friend_you_are_the_real_hero"><font color="back"> <strong>And you, my friend, you are the real hero!</strong> </font><a class="headerlink" href="#and_you_my_friend_you_are_the_real_hero" title="Permanent link">&para;</a></h1>
 <hr />
-<div class="admonition quote">
-<div class="tabbed-set" data-tabs="1:4"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><label for="__tabbed_1_1"><strong>参考连接:</strong></label><div class="tabbed-content">
+<div class="admonition danger">
+<div class="tabbed-set tabbed-alternate" data-tabs="1:4"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1"><strong>参考连接:</strong></label><label for="__tabbed_1_2"><strong>官方文档:</strong></label><label for="__tabbed_1_3">Update</label><label for="__tabbed_1_4">Statistics</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
 <li><a href="https://github.com/TonyCrane/mkdocs-statistics-plugin?tab=readme-ov-file" target="_blank">mkdocs-statistics-plugin插件</a></li>
 <li><a href="https://wncfht.github.io/notes/Tools/Blog/Mkdocs_Material/" target="_blank" title="mkdocs material 超全配置">mkdocs—material-超全配置</a></li>
 <li><a href="https://www.cnblogs.com/E-Dreamer-Blogs/p/13323385.html" target="_blank" title="GitHub Pages部署mkdocs">GitHub Pages部署mkdocs</a></li>
 </ul>
 </div>
-<input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><label for="__tabbed_1_2"><strong>官方文档:</strong></label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
-<li>For full documentation visit <a href="https://www.mkdocs.org" target="_blank">mkdocs.org</a></li>
-<li>For full documentation visit <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">mkdocs-material.org</a></li>
+<li>For full documentation visit <a href="https://www.mkdocs.org" target="_blank">mkdocs.org</a>  </li>
+<li>For full documentation visit <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">mkdocs-material.org</a>  </li>
 </ul>
 </div>
-<input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><label for="__tabbed_1_3">Update</label><div class="tabbed-content">
+<div class="tabbed-block">
 <ul>
-<li><a href="about/" title="更新说明">更新说明</a></li>
-<li>1</li>
-<li>2</li>
-<li>3</li>
+<li><a href="about/" title="更新说明">更新说明</a>  </li>
+<li>1  </li>
+<li>2  </li>
+<li>3  </li>
 </ul>
 </div>
-<input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><label for="__tabbed_1_4">站点统计</label><div class="tabbed-content">
-<p><div id="statistics" markdown="1" class="card" style="width: 27em; border-color: transparent; margin: 0 auto; font-size: 100%; text-align: center;">
+<div class="tabbed-block">
+<p><div style="display: block; text-align: left; font-size: 18px;">
+<!-- [:material-chart-line: Statistics] -->
+</div>
+<div id="statistics" markdown="1" class="card" style="width: 27em; border-color: transparent; margin-left: auto; margin-right: auto; font-size: 110%">
 <div style="padding-left: 1em;" markdown="1">
 <!-- 页面总数：{{ pages }}<br />总字数：{{ words }}<br />代码块行数：{{ codes }}   -->
 网站运行时间：<span id="web-time"></span><br />
@@ -38428,12 +38433,13 @@ function updateTime() {
     if (y == 0) {
         document.getElementById("web-time").innerHTML = d + "<span class=\"heti-spacing\"> </span>天<span class=\"heti-spacing\"> </span>" + h + "<span class=\"heti-spacing\"> </span>小时<span class=\"heti-spacing\"> </span>" + m + "<span class=\"heti-spacing\"> </span>分钟";
     } else {
-        document.getElementById("web-time").innerHTML = y + "<span class=\"heti-spacing\"> </span>年<span class=\"heti-spacing\"> </span>" + d + "<span class=\"heti-spacing\"> </span>天<span class=\"heti-spacing\"> </span>" + h + "<span class=\"heti-spacing\"> </span>小时<span class=\"heti-spacing\"> </span>" + m + "<span class=\"heti-spacing\"> </span>分钟";
+        document.getElementById("web-time").innerHTML = y + "<span class=\"heti-spacing\"> </span>年<span class=\"heti-spacing\"> </span>" + d + "<span class=\"heti-spacing\"> </span>" + h + "<span class=\"heti-spacing\"> </span>小时<span class=\"heti-spacing\"> </span>" + m + "<span class=\"heti-spacing\"> </span>分钟";
     }
     setTimeout(updateTime, 1000 * 60);
 }
 updateTime();
 </script></p>
+</div>
 </div>
 </div>
 </div>

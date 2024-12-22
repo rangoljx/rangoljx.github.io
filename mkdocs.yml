@@ -312,13 +312,6 @@ extra:
       text: 分享到微博
       icon: material/sina-weibo
   # Giscus 配置 评论系统
-  # 需要overrides，未实现
-    # comments:
-    #   provider: giscus
-    #   repo: username/repo
-    #   repo_id: your_repo_id
-    #   category: Comments
-    #   category_id: your_category_id
 
   # Google Analytics 数据统计
   # analytics: 
@@ -404,6 +397,7 @@ markdown_extensions:
       custom_checkbox: true    # 自定义复选框样式
       clickable_checkbox: true # 可点击
   - pymdownx.tabbed:    # 标签页样式
+      alternate_style: true
 
 extra_javascript:
   # - javascripts/tasklist.js

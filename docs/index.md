@@ -14,25 +14,31 @@ nostatistics: true
 
 ---
 
-!!! quote ""
+!!! danger ""
 
-    === "**参考连接:**"
+    === "**参考连接:**" 
+
         - [mkdocs-statistics-plugin插件](https://github.com/TonyCrane/mkdocs-statistics-plugin?tab=readme-ov-file){target="_blank"}
         - [mkdocs—material-超全配置](https://wncfht.github.io/notes/Tools/Blog/Mkdocs_Material/ "mkdocs material 超全配置"){target="_blank"}
         - [GitHub Pages部署mkdocs](https://www.cnblogs.com/E-Dreamer-Blogs/p/13323385.html "GitHub Pages部署mkdocs"){target="_blank"}
 
     === "**官方文档:**"
-        - For full documentation visit [mkdocs.org](https://www.mkdocs.org){target="_blank"}
-        - For full documentation visit [mkdocs-material.org](https://squidfunk.github.io/mkdocs-material/){target="_blank"}
+
+        - For full documentation visit [mkdocs.org](https://www.mkdocs.org){target="_blank"}  
+        - For full documentation visit [mkdocs-material.org](https://squidfunk.github.io/mkdocs-material/){target="_blank"}  
 
     === "Update"
-        - [更新说明](./about.md "更新说明")
-        - 1
-        - 2
-        - 3
 
-    === "站点统计"
-        <div id="statistics" markdown="1" class="card" style="width: 27em; border-color: transparent; margin: 0 auto; font-size: 100%; text-align: center;">
+        - [更新说明](./about.md "更新说明")  
+        - 1  
+        - 2  
+        - 3  
+
+    === "Statistics"
+        <div style="display: block; text-align: left; font-size: 18px;">
+        <!-- [:material-chart-line: Statistics] -->
+        </div>
+        <div id="statistics" markdown="1" class="card" style="width: 27em; border-color: transparent; margin-left: auto; margin-right: auto; font-size: 110%">
         <div style="padding-left: 1em;" markdown="1">
         <!-- 页面总数：{{ pages }}  
         总字数：{{ words }}  
@@ -58,7 +64,7 @@ nostatistics: true
             if (y == 0) {
                 document.getElementById("web-time").innerHTML = d + "<span class=\"heti-spacing\"> </span>天<span class=\"heti-spacing\"> </span>" + h + "<span class=\"heti-spacing\"> </span>小时<span class=\"heti-spacing\"> </span>" + m + "<span class=\"heti-spacing\"> </span>分钟";
             } else {
-                document.getElementById("web-time").innerHTML = y + "<span class=\"heti-spacing\"> </span>年<span class=\"heti-spacing\"> </span>" + d + "<span class=\"heti-spacing\"> </span>天<span class=\"heti-spacing\"> </span>" + h + "<span class=\"heti-spacing\"> </span>小时<span class=\"heti-spacing\"> </span>" + m + "<span class=\"heti-spacing\"> </span>分钟";
+                document.getElementById("web-time").innerHTML = y + "<span class=\"heti-spacing\"> </span>年<span class=\"heti-spacing\"> </span>" + d + "<span class=\"heti-spacing\"> </span>" + h + "<span class=\"heti-spacing\"> </span>小时<span class=\"heti-spacing\"> </span>" + m + "<span class=\"heti-spacing\"> </span>分钟";
             }
             setTimeout(updateTime, 1000 * 60);
         }

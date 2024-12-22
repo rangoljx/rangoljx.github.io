@@ -173,7 +173,6 @@ plugins:
   - git-committers:
       repository: rangoljx/rangoljx.github.io
       branch: master
-      token: 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
       # show_line_count: true
       exclude:
         - index.md
@@ -405,8 +404,6 @@ markdown_extensions:
       custom_checkbox: true    # 自定义复选框样式
       clickable_checkbox: true # 可点击
   - pymdownx.tabbed:    # 标签页样式
-      alternate_style: true
-
 
 extra_javascript:
   # - javascripts/tasklist.js
@@ -424,8 +421,6 @@ extra_javascript:
   - javascripts/extra.js
   - javascripts/feedback.js
   # - https://giscus.app/client.js
-
-
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css

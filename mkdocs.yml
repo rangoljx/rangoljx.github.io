@@ -125,6 +125,7 @@ plugins:
             Blog: 博客
             ABOUT: 关于
             TAGS: 标签
+            Network communication: 网络通信
             Tools & Software Related (Q&A): 工具&软件相关(Q&A)
             Software testing: 软件测试
             Message board: 留言板
@@ -216,6 +217,12 @@ nav:
 
   - Material for MkDocs:
     - Mkdocs搭建总结: mkdocsbuild/build_mkdocs.md
+
+  - Python:
+    - Selenium: python-doc/selenium.md
+
+  - Network communication:
+    - 计算机网络基础: network/basic.md
 
   - Software testing:
     - 测试基础理论: testing/basic-theory-of-testing.md

@@ -1,21 +1,21 @@
-site_name: Rango's Notes
-site_url: https://rangoljx.github.io/
-site_author: Rango
-site_description: Rango's Notes
+site_name: Rango's Notes  # 网站名称
+site_url: https://rangoljx.github.io/   # 网站地址
+site_author: Rango              # 网站作者
+site_description: Rango's Notes       # 网站描述
 # 代码仓库信息
 repo_name: rango # 仓库名称
 repo_url: https://github.com/rangoljx/rangoljx.github.io/ # 仓库地址
 # edit_url: https://github.com/rangoljx/rangoljx.github.io/ # 仓库地址
 theme:
-  name: material
-  custom_dir: docs/overrides
+  name: material        # 主题名称
+  custom_dir: docs/overrides          # 自定义目录,用于存放自定义的css、js等文件
   # custom_dir: ./overrides
   language: zh # 默认语言
   keyboard: #配置搜索快捷键
     search: s, /
 
   favicon: images/mkdocs_favicon.png              # 网站图标
-  palette:
+  palette:    # 调色板，用于配置主题的颜色（暗黑模式切换）
     # 可用的主题色：
     # red, pink, purple, deep purple, indigo, blue, light blue, 
     # cyan, teal, green, light green, lime, yellow, amber, 
@@ -36,24 +36,19 @@ theme:
       accent: pink
       toggle:
         icon: material/weather-sunny
-  font:
-    text: Roboto
-    code: Roboto Mono
+  font:     # 字体设置
+    text: Roboto      # 主要文本字体
+    code: Roboto Mono     # 代码字体                
   icon: # 一些用到的icon   material/washing-machine-alert
-    # 修改网站作者仓库图标
+    
     # repo: simple/github
-    repo: customsvg/site-author
-    edit: material/pencil-box-multiple
-    view: material/eye
-    logo: simple/testcafe
-    previous: fontawesome/solid/angle-left
-    next: fontawesome/solid/angle-right
-    tag:
-      default-tag: fontawesome/solid/tag
-      hardware-tag: fontawesome/solid/microchip
-      software-tag: fontawesome/solid/laptop-code
-    # 告警图标
-    admonition:
+    repo: customsvg/site-author # 修改网站作者仓库图标
+    edit: material/pencil-box-multiple  # 修改编辑图标
+    view: material/eye    # 修改查看图标
+    logo: simple/testcafe      # 网站logo  
+    previous: fontawesome/solid/angle-left  # 上一页图标
+    next: fontawesome/solid/angle-right     # 下一页icon
+    admonition: # 告警图标,可自定义
       note: octicons/tag-16
       abstract: octicons/checklist-16
       info: octicons/info-16
@@ -66,7 +61,7 @@ theme:
       bug: octicons/bug-16
       example: octicons/beaker-16
       quote: octicons/quote-16
-  features:
+  features: # 配置主题特性
   # - navigation.instant #- header.autohide  #自动隐藏
   - navigation.instant.progress #进度指示器
   - navigation.instant.preview #全局自动预览
@@ -157,14 +152,13 @@ plugins:
       zoomable: true               # 启用缩放
       draggable: true              # 启用拖动
 
-  # 添加上次更新和创建文档的日期的支持(pip install mkdocs-git-revision-date-localized-plugin)
-  - git-revision-date-localized:
-      enable_creation_date: true
-      fallback_to_build_date: true
-      # enable_git_follow: true
+  # 在底部添加上次更新和创建文档的日期的支持(pip install mkdocs-git-revision-date-localized-plugin)
+  - git-revision-date-localized:  # 本地化日期
+      enable_creation_date: true  # 启用创建日期
+      fallback_to_build_date: true  # 回退到构建日期
       # date datetime iso_date iso_datetime timeago
-      type: date
-      exclude:
+      type: date  # 日期格式
+      exclude:    # 排除不需要显示的页面
         - index.md
         - tags.md
         - about.md
@@ -172,10 +166,10 @@ plugins:
   # -----pip install mkdocs-git-committers-plugin-2
   #   替代git-authors,自动获取仓库信息 显示头像
   - git-committers:
-      repository: rangoljx/rangoljx.github.io
-      branch: master
+      repository: rangoljx/rangoljx.github.io # 仓库地址
+      branch: master                # 分支    
       # show_line_count: true
-      exclude:
+      exclude:  # 排除不需要显示的页面
         - index.md
         - tags.md
         - about.md
@@ -201,12 +195,10 @@ plugins:
   
   # 标签系统pip install mkdocs-tags-plugin
   - tags:
-      tags_file: tags.md #标签
-      # tags_allowed:  # 允许的标签列表
-      #   - Python
+      tags_file: tags.md #标签文件
 
-hooks:
-  - hooks/socialmedia.py
+hooks:  # 钩子
+  - hooks/socialmedia.py      # 社交媒体
 
 # 导航设置
 nav: 
@@ -264,12 +256,11 @@ nav:
   - TAGS: tags.md
   - ABOUT: about.md
 
-copyright: Copyright &copy; 2024 Rango
-#  Powered by MkDocs with theme Material modified by Rango
+copyright: Copyright &copy; 2024 Rango   #  自定义版权信息
 
-extra:
+extra: 
   # generator: false  #删除页脚显示“使用 MkDocs 材料制造”
-  status:
+  status: # 用于标记文档的状态,需要在md文档的元数据中添加status字段
     new: new  #新创建的文档
     Recently: Recently  #最近更新的文档
     added: added #新添加的内容
@@ -287,7 +278,7 @@ extra:
       katex: https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/katex.min.js
       mermaid: https://cdn.jsdelivr.net/npm/mermaid@9/dist/mermaid.min.js
 
-  # 社交链接
+  # 社交链接，可自定义，在页面底部显示
   social:
     - icon: material/github
       link: https://github.com/rangoljx/rangoljx.github.io/discussions
@@ -353,14 +344,14 @@ extra:
   #   description: >- 
   #     我们也使用cookies来识别您的重复访问和偏好来衡量我们文档的有效性以及用户是否找到他们要找的东西。
 
-# 对markdown语法的扩展
+# 对markdown语法的扩展，支持更多的markdown语法
 markdown_extensions:
   - meta # 支持在 Markdown 文件头部添加元数据：
-  - toc:
-      permalink: true # 固定标题位置为当前位置
+  - toc:  # 设置后在右侧边栏可以看到目录
+      permalink: true # 启用
       toc_depth: 4          # 目录深度
       separator: "_"        # 标题锚点分隔符
-      title: "目录"         # 目录标题
+      title: "目录"         # 设置目录标题
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds: {case: lower} # URL 转换规则
   - abbr

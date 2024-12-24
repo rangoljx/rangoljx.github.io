@@ -9,7 +9,7 @@ title: GitHub Actions自动部署mkdocs
 description: GitHub Actions自动部署的使用配置，GitHub Actions指南，使用GitHub Actions自动部署mkdocs
 ---
 
-# 测试GitHub Actions自动部署
+# GitHub Actions自动部署
 
 !!! info  ""
     :material-read: __View__ <span id="busuanzi_value_page_pv"></span> __Times__

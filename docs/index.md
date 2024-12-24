@@ -10,7 +10,7 @@ nostatistics: true
 <!-- 本站共有 {{ pages }} 个页面，{{ words }} 个字，{{ codes }} 行代码。 -->
 
 <!-- # <font color=#"789510"> **Welcome to Rango's note!** </font> -->
-# <font color="back"> **And you, my friend, you are the real hero!** </font>
+# <font color：rgba(8, 227, 154, 0.71)> **And you, my friend, you are the real hero!** </font>
 
 ---
 
@@ -25,7 +25,7 @@ nostatistics: true
     === "**官方文档:**"
 
         - For full documentation visit [mkdocs.org](https://www.mkdocs.org){target="_blank"}  
-        - For full documentation visit [mkdocs-material.org](https://squidfunk.github.io/mkdocs-material/){target="_blank"}  
+        - For full documentation visit [mkdocs-material.org](https://squidfunk.github.io/mkdocs-material/getting-started/){target="_blank"}  
 
     === "Update"
 
@@ -73,7 +73,7 @@ nostatistics: true
 
 ---
 
-<center> <font color="black" size=48 > <p style="background-color: red;"> 每一颗想赢的心，都有好运。</p>  </font> </center>
+<!-- <center> <font color="black" size=48 > <p style="background-color: red;"> 每一颗想赢的心，都有好运。</p>  </font> </center> -->
 
 
 

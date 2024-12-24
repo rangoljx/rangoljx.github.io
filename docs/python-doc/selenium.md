@@ -3,7 +3,7 @@ comments: true  #默认不开启评论
 icon: simple/selenium
 status: draft
 tags:
-    - selenium
+    - Selenium
 title: Selenium使用教程
 description: 本教程介绍了Selenium的基本概念、安装方法、常用操作以及Selenium 4的新特性和注意事项，适合初学者学习和使用。
 # 不显示页面统计

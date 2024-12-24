@@ -587,20 +587,19 @@ pip install -r requirements.txt
             <h2 id="__comments">{{ lang.t("meta.comments") }}</h2>
             <!-- Insert generated snippet here -->
             <script src="https://giscus.app/client.js"
-            data-repo="rangoljx/rangoljx.github.io"
-            data-repo-id="R_kgDONXxlow"
-            data-category="General"
-            data-category-id="DIC_kwDONXxlo84ClN0t"
-            data-mapping="pathname"
-            data-strict="0"
-            data-reactions-enabled="1"
-            data-emit-metadata="1"
-            data-input-position="bottom"
-            data-theme="preferred_color_scheme"
-            data-lang="zh-CN"
-            crossorigin="anonymous"
-            async>
-          </script>
+                    data-repo="rangoljx/rangoljx.github.io"
+                    data-repo-id=""
+                    data-category-id=""
+                    data-mapping="pathname"
+                    data-strict="0"
+                    data-reactions-enabled="1"
+                    data-emit-metadata="1"
+                    data-input-position="bottom"
+                    data-theme="preferred_color_scheme"
+                    data-lang="zh-CN"
+                    crossorigin="anonymous"
+                    async>
+            </script>
             <!-- Synchronize Giscus theme with palette -->
             <script>
               var giscus = document.querySelector("script[src*=giscus]")

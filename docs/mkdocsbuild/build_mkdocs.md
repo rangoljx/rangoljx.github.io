@@ -24,7 +24,7 @@ description: 使用 Mkdocs 和 mkdocs-material 主题搭建和部署个人博客
 # Mkdocs搭建总结（基于mkdocs-material主题）
 
 !!! info  ""
-    :material-read: __查看__ <span id="busuanzi_value_page_pv"></span> __次__
+    :material-read: __View__ <span id="busuanzi_value_page_pv"></span> __Times__
 
 ---
 
@@ -764,3 +764,8 @@ pip install -r requirements.txt
 5. 每次推送到 `master` 分支时，GitHub Actions 将自动构建并部署你的 Mkdocs 项目到 GitHub Pages.
 
 6. 每次 `gh-pages` 分支的部署完成后，GitHub Actions 将自动提交新的 URL 到 Bing。
+
+## 8.完结撒花
+
+- 自动构建/部署根据个人思路搭建配置，每个人不同，也可创建不同仓库进行存放和构建部署.
+- 详细功能介绍可查阅 __Mkdocs-Material__ 和相关插件的官方文档,markdown写作技巧等.

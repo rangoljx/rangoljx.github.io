@@ -256,7 +256,7 @@ nav:
   - TAGS: tags.md
   - ABOUT: about.md
 
-copyright: Copyright &copy; 2024 Rango   #  自定义版权信息
+copyright: Copyright &copy; 2025 Rango   #  自定义版权信息
 
 extra: 
   # generator: false  #删除页脚显示“使用 MkDocs 材料制造”
